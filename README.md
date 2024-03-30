@@ -1,1 +1,5 @@
 # llm-agents-for-task-automation
+
+As natural language interaction with AI systems becomes more widespread, there is increasing interest in developing agents that can complete multi-step tasks and workflows by navigating real-world digital environments like websites and project management platforms. Recent datasets and benchmarks such as WebArena and Mind2Web have made progress on this challenge by curating instructions and action sequences for completing tasks on real websites. However, these benchmarks have not yet specifically targeted project management workflows, which involve distinct types of multi-step tasks. 
+
+In this project, we propose to address this gap by creating a new benchmark dataset of natural language instructions and gold action sequences for common project management tasks and workflows on platforms like Linear and Jira. This will enable evaluating the performance of AI agents on completing realistic "day in the life" operations and project management tasks, with the ultimate goal of building AI systems to increase productivity for these job roles.
