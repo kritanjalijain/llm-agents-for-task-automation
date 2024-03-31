@@ -1,0 +1,6 @@
+2024-03-28 17:37:13,017 - INFO - Create result dir: ./results
+2024-03-28 17:37:13,019 - INFO - Dump config to results/config.json
+2024-03-28 17:37:13,407 - INFO - [Config file]: config_files/0.json
+2024-03-28 17:37:13,408 - INFO - [Intent]: What is the top-1 best-selling product in 2022
+2024-03-28 17:37:22,632 - INFO - [Result] (FAIL) config_files/0.json
+2024-03-28 17:37:22,900 - INFO - Average score: 0.0

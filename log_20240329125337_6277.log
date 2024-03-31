@@ -1,0 +1,77 @@
+2024-03-29 12:53:38,207 - INFO - [Config file]: config_files/400.json
+2024-03-29 12:53:38,207 - INFO - [Intent]: Change my reddit bio to "Pro Python Developer with 20 years of Experience"
+2024-03-29 12:54:14,116 - INFO - [Result] (FAIL) config_files/400.json
+2024-03-29 12:54:14,332 - INFO - [Config file]: config_files/401.json
+2024-03-29 12:54:14,332 - INFO - [Intent]: Change my reddit bio to "Seeking SDE positions"
+2024-03-29 12:55:50,012 - INFO - [OpenAI Error] APIError(message='The server had an error while processing your request. Sorry about that! {\n  "error": {\n    "message": "The server had an error while processing your request. Sorry about that!",\n    "type": "server_error",\n    "param": null,\n    "code": null\n  }\n}\n 500 {\'error\': {\'message\': \'The server had an error while processing your request. Sorry about that!\', \'type\': \'server_error\', \'param\': None, \'code\': None}} {\'Date\': \'Fri, 29 Mar 2024 12:55:50 GMT\', \'Content-Type\': \'application/json\', \'Content-Length\': \'176\', \'Connection\': \'keep-alive\', \'access-control-allow-origin\': \'*\', \'openai-model\': \'gpt-3.5-turbo-0125\', \'openai-organization\': \'user-wmb0lqugvefcvmel4ol3cofj\', \'openai-processing-ms\': \'58\', \'openai-version\': \'2020-10-01\', \'strict-transport-security\': \'max-age=15724800; includeSubDomains\', \'x-ratelimit-limit-requests\': \'10000\', \'x-ratelimit-limit-tokens\': \'60000\', \'x-ratelimit-remaining-requests\': \'9988\', \'x-ratelimit-remaining-tokens\': \'58332\', \'x-ratelimit-reset-requests\': \'1m38.799s\', \'x-ratelimit-reset-tokens\': \'1.668s\', \'x-request-id\': \'req_d00306c28f055824961c511f2a0e33c3\', \'CF-Cache-Status\': \'DYNAMIC\', \'Server\': \'cloudflare\', \'CF-RAY\': \'86c0043879e6e174-ORD\', \'alt-svc\': \'h3=":443"; ma=86400\'}', http_status=500, request_id=None)
+2024-03-29 12:55:50,019 - INFO - [Config file]: config_files/402.json
+2024-03-29 12:55:50,019 - INFO - [Intent]: Change my reddit bio to "Freelance Web Developer"
+2024-03-29 12:57:00,876 - INFO - [Result] (PASS) config_files/402.json
+2024-03-29 12:57:01,586 - INFO - [Config file]: config_files/403.json
+2024-03-29 12:57:01,586 - INFO - [Intent]: Change my reddit bio to "Awesome Prompt Artist"
+2024-03-29 12:57:50,384 - INFO - [Result] (FAIL) config_files/403.json
+2024-03-29 12:57:50,778 - INFO - [Config file]: config_files/404.json
+2024-03-29 12:57:50,779 - INFO - [Intent]: Upvote the newest post in books subreddit
+2024-03-29 12:58:10,884 - INFO - [OpenAI Error] APIError(message='The server had an error while processing your request. Sorry about that! {\n  "error": {\n    "message": "The server had an error while processing your request. Sorry about that!",\n    "type": "server_error",\n    "param": null,\n    "code": null\n  }\n}\n 500 {\'error\': {\'message\': \'The server had an error while processing your request. Sorry about that!\', \'type\': \'server_error\', \'param\': None, \'code\': None}} {\'Date\': \'Fri, 29 Mar 2024 12:58:10 GMT\', \'Content-Type\': \'application/json\', \'Content-Length\': \'176\', \'Connection\': \'keep-alive\', \'access-control-allow-origin\': \'*\', \'openai-model\': \'gpt-3.5-turbo-0125\', \'openai-organization\': \'user-wmb0lqugvefcvmel4ol3cofj\', \'openai-processing-ms\': \'43\', \'openai-version\': \'2020-10-01\', \'strict-transport-security\': \'max-age=15724800; includeSubDomains\', \'x-ratelimit-limit-requests\': \'10000\', \'x-ratelimit-limit-tokens\': \'60000\', \'x-ratelimit-remaining-requests\': \'9978\', \'x-ratelimit-remaining-tokens\': \'58372\', \'x-ratelimit-reset-requests\': \'3m2.551s\', \'x-ratelimit-reset-tokens\': \'1.628s\', \'x-request-id\': \'req_e51e99306b9a37ccdcab3b811b2c1086\', \'CF-Cache-Status\': \'DYNAMIC\', \'Server\': \'cloudflare\', \'CF-RAY\': \'86c007a90f6f2a0c-ORD\', \'alt-svc\': \'h3=":443"; ma=86400\'}', http_status=500, request_id=None)
+2024-03-29 12:58:10,888 - INFO - [Config file]: config_files/405.json
+2024-03-29 12:58:10,888 - INFO - [Intent]: Upvote the newest post in DIY subreddit
+2024-03-29 12:59:01,185 - INFO - [OpenAI Error] APIError(message='The server had an error while processing your request. Sorry about that! {\n  "error": {\n    "message": "The server had an error while processing your request. Sorry about that!",\n    "type": "server_error",\n    "param": null,\n    "code": null\n  }\n}\n 500 {\'error\': {\'message\': \'The server had an error while processing your request. Sorry about that!\', \'type\': \'server_error\', \'param\': None, \'code\': None}} {\'Date\': \'Fri, 29 Mar 2024 12:59:01 GMT\', \'Content-Type\': \'application/json\', \'Content-Length\': \'176\', \'Connection\': \'keep-alive\', \'access-control-allow-origin\': \'*\', \'openai-model\': \'gpt-3.5-turbo-0125\', \'openai-organization\': \'user-wmb0lqugvefcvmel4ol3cofj\', \'openai-processing-ms\': \'40\', \'openai-version\': \'2020-10-01\', \'strict-transport-security\': \'max-age=15724800; includeSubDomains\', \'x-ratelimit-limit-requests\': \'10000\', \'x-ratelimit-limit-tokens\': \'60000\', \'x-ratelimit-remaining-requests\': \'9973\', \'x-ratelimit-remaining-tokens\': \'58432\', \'x-ratelimit-reset-requests\': \'3m47.287s\', \'x-ratelimit-reset-tokens\': \'1.568s\', \'x-request-id\': \'req_fbeb82da2661d0b3ab7db8ea26896ff3\', \'CF-Cache-Status\': \'DYNAMIC\', \'Server\': \'cloudflare\', \'CF-RAY\': \'86c008e37a0d2a0c-ORD\', \'alt-svc\': \'h3=":443"; ma=86400\'}', http_status=500, request_id=None)
+2024-03-29 12:59:01,188 - INFO - [Config file]: config_files/406.json
+2024-03-29 12:59:01,188 - INFO - [Intent]: Upvote the newest post in future technology subreddit
+2024-03-29 12:59:47,118 - INFO - [Result] (FAIL) config_files/406.json
+2024-03-29 12:59:47,313 - INFO - [Config file]: config_files/407.json
+2024-03-29 12:59:47,313 - INFO - [Intent]: Upvote the newest post in deeplearning subreddit
+2024-03-29 13:00:45,354 - INFO - [Result] (FAIL) config_files/407.json
+2024-03-29 13:00:45,676 - INFO - [Config file]: config_files/408.json
+2024-03-29 13:00:45,676 - INFO - [Intent]: Upvote the newest post in explain like im 5 subreddit
+2024-03-29 13:01:06,928 - INFO - [OpenAI Error] APIError(message='The server had an error while processing your request. Sorry about that! {\n  "error": {\n    "message": "The server had an error while processing your request. Sorry about that!",\n    "type": "server_error",\n    "param": null,\n    "code": null\n  }\n}\n 500 {\'error\': {\'message\': \'The server had an error while processing your request. Sorry about that!\', \'type\': \'server_error\', \'param\': None, \'code\': None}} {\'Date\': \'Fri, 29 Mar 2024 13:01:06 GMT\', \'Content-Type\': \'application/json\', \'Content-Length\': \'176\', \'Connection\': \'keep-alive\', \'access-control-allow-origin\': \'*\', \'openai-model\': \'gpt-3.5-turbo-0125\', \'openai-organization\': \'user-wmb0lqugvefcvmel4ol3cofj\', \'openai-processing-ms\': \'60\', \'openai-version\': \'2020-10-01\', \'strict-transport-security\': \'max-age=15724800; includeSubDomains\', \'x-ratelimit-limit-requests\': \'10000\', \'x-ratelimit-limit-tokens\': \'60000\', \'x-ratelimit-remaining-requests\': \'9966\', \'x-ratelimit-remaining-tokens\': \'58361\', \'x-ratelimit-reset-requests\': \'4m51.648s\', \'x-ratelimit-reset-tokens\': \'1.639s\', \'x-request-id\': \'req_c5a7a1e6f7ca7e2c518e219e1f51ad7c\', \'CF-Cache-Status\': \'DYNAMIC\', \'Server\': \'cloudflare\', \'CF-RAY\': \'86c00bf538d56350-ORD\', \'alt-svc\': \'h3=":443"; ma=86400\'}', http_status=500, request_id=None)
+2024-03-29 13:01:06,938 - INFO - [Config file]: config_files/409.json
+2024-03-29 13:01:06,938 - INFO - [Intent]: Reply to the manager of the website in this post with "thanks! I am a big fan of your website."
+2024-03-29 13:02:45,699 - INFO - [Result] (FAIL) config_files/409.json
+2024-03-29 13:02:47,065 - INFO - [Config file]: config_files/410.json
+2024-03-29 13:02:47,065 - INFO - [Intent]: Reply to the first reply in this post with ""don't panic""
+2024-03-29 13:07:39,241 - INFO - [Result] (FAIL) config_files/410.json
+2024-03-29 13:07:42,281 - INFO - [Config file]: config_files/411.json
+2024-03-29 13:07:42,281 - INFO - [Intent]: Make the LICENSE of byteblaze/cloud-to-butt to MIT license.
+2024-03-29 13:11:04,253 - INFO - [Result] (FAIL) config_files/411.json
+2024-03-29 13:11:09,780 - INFO - [Config file]: config_files/412.json
+2024-03-29 13:11:09,782 - INFO - [Intent]: Make the LICENSE of byteblaze/accessible-html-content-patterns to Apache License
+2024-03-29 13:14:27,420 - INFO - [Result] (FAIL) config_files/412.json
+2024-03-29 13:14:30,977 - INFO - [Config file]: config_files/413.json
+2024-03-29 13:14:30,977 - INFO - [Intent]: Make the LICENSE of byteblaze/a11y-syntax-highlighting to one that mandates all copies and derivative works to be under the same license
+2024-03-29 13:17:53,738 - INFO - [Result] (FAIL) config_files/413.json
+2024-03-29 13:17:57,373 - INFO - [Config file]: config_files/414.json
+2024-03-29 13:17:57,373 - INFO - [Intent]: Make the LICENSE of byteblaze/dotfiles to MIT license.
+2024-03-29 13:18:37,563 - INFO - [Result] (FAIL) config_files/414.json
+2024-03-29 13:18:38,288 - INFO - [Config file]: config_files/415.json
+2024-03-29 13:18:38,288 - INFO - [Intent]: Go to the merge request on verification functions I have to review, find if the author of the merge request responded at the end, and reply "Thank you" if he did. Otherwise remind him with a simple @.
+2024-03-29 13:24:46,909 - INFO - [Result] (FAIL) config_files/415.json
+2024-03-29 13:24:50,384 - INFO - [Config file]: config_files/416.json
+2024-03-29 13:24:50,384 - INFO - [Intent]: Go to the merge request on wcag I have to review, find if the author of the merge request responded at the end, and reply "Thank you" if he did. Otherwise remind him with a simple @.
+2024-03-29 13:26:00,643 - INFO - [Result] (FAIL) config_files/416.json
+2024-03-29 13:26:02,172 - INFO - [Config file]: config_files/417.json
+2024-03-29 13:26:02,172 - INFO - [Intent]: Go to the merge request on 404 link I have to review, find if the author of the merge request responded at the end, and reply "Thank you" if he did. Otherwise remind him with a simple @.
+2024-03-29 13:31:16,768 - INFO - [Unhandled Error] TimeoutError('Timeout 500ms exceeded.')]
+2024-03-29 13:31:16,819 - INFO - [Config file]: config_files/418.json
+2024-03-29 13:31:16,819 - INFO - [Intent]: Set my gitlab status as Busy.
+2024-03-29 13:31:53,097 - INFO - [Result] (FAIL) config_files/418.json
+2024-03-29 13:31:54,107 - INFO - [Config file]: config_files/419.json
+2024-03-29 13:31:54,107 - INFO - [Intent]: Set my gitlab status as Enjoying life.
+2024-03-29 13:32:53,324 - INFO - [Unhandled Error] TimeoutError('Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to "http://ec2-18-217-79-95.us-east-2.compute.amazonaws.com:8023/byteblaze", waiting until "load"\n============================================================')]
+2024-03-29 13:32:56,603 - INFO - [Config file]: config_files/420.json
+2024-03-29 13:32:57,138 - INFO - [Intent]: Set my gitlab status as Playing Badminton.
+2024-03-29 13:34:09,913 - INFO - [Result] (FAIL) config_files/420.json
+2024-03-29 13:34:10,975 - INFO - [Config file]: config_files/421.json
+2024-03-29 13:34:10,975 - INFO - [Intent]: Set my gitlab status as Resting due to leg injury.
+2024-03-29 13:34:54,797 - INFO - [Result] (FAIL) config_files/421.json
+2024-03-29 13:34:55,594 - INFO - [Config file]: config_files/422.json
+2024-03-29 13:34:55,594 - INFO - [Intent]: Set my gitlab status as Out of Office.
+2024-03-29 13:35:34,974 - INFO - [Result] (FAIL) config_files/422.json
+2024-03-29 13:35:35,706 - INFO - [Config file]: config_files/423.json
+2024-03-29 13:35:35,706 - INFO - [Intent]: Mark all Hollister shirts on sale
+2024-03-29 13:35:53,336 - INFO - [Result] (FAIL) config_files/423.json
+2024-03-29 13:35:53,784 - INFO - [Config file]: config_files/424.json
+2024-03-29 13:35:53,784 - INFO - [Intent]: Find the page of the place where Mr. Rogers was filmed on the map.
+2024-03-29 13:38:08,434 - INFO - [Result] (FAIL) config_files/424.json
+2024-03-29 13:38:10,924 - INFO - [Config file]: config_files/425.json
+2024-03-29 13:38:10,930 - INFO - [Intent]: Find the page of the longest bridge in the Western hemisphere on the map.

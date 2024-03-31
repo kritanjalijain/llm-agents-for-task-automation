@@ -1,0 +1,6 @@
+2024-03-28 23:34:29,385 - INFO - [Config file]: config_files/18.json
+2024-03-28 23:34:29,385 - INFO - [Intent]: Compare the time for walking and driving route from AMC Waterfront to Univ of Pittsburgh
+2024-03-28 23:34:34,364 - INFO - getting next
+2024-03-28 23:34:34,367 - INFO - [Unhandled Error] TypeError("generate_from_openai_completion() missing 1 required positional argument: 'context_length'")]
+2024-03-28 23:34:34,369 - INFO - [Config file]: config_files/19.json
+2024-03-28 23:34:34,369 - INFO - [Intent]: Compare the time for walking and driving route from Carnegie Science Center to Carnegie Mellon University

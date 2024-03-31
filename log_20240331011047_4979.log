@@ -1,0 +1,68 @@
+2024-03-31 01:10:47,493 - INFO - [Config file]: config_files/600.json
+2024-03-31 01:10:47,493 - INFO - [Intent]: Post my question, "what is the recommended console to buy these days", in a subreddit where I'm likely to get an answer
+2024-03-31 01:12:45,950 - INFO - [Result] (FAIL) config_files/600.json
+2024-03-31 01:12:47,181 - INFO - [Config file]: config_files/601.json
+2024-03-31 01:12:47,182 - INFO - [Intent]: Post my question, "is car necessary in NYC", in a subreddit where I'm likely to get an answer
+2024-03-31 01:15:23,638 - INFO - [Result] (FAIL) config_files/601.json
+2024-03-31 01:15:25,052 - INFO - [Config file]: config_files/602.json
+2024-03-31 01:15:25,052 - INFO - [Intent]: Post my question, "places for new drivers to learn driving in pittsburgh", in a subreddit where I'm likely to get an answer
+2024-03-31 01:16:29,449 - INFO - [Result] (FAIL) config_files/602.json
+2024-03-31 01:16:29,870 - INFO - [Config file]: config_files/603.json
+2024-03-31 01:16:29,870 - INFO - [Intent]: Post my question, "safe and budge apartment to live in nyc", in a subreddit where I'm likely to get an answer
+2024-03-31 01:17:26,888 - INFO - [Result] (FAIL) config_files/603.json
+2024-03-31 01:17:27,309 - INFO - [Config file]: config_files/604.json
+2024-03-31 01:17:27,309 - INFO - [Intent]: Post my question, "what is the SOTA web navigation agent repo", in a subreddit where I'm likely to get an answer
+2024-03-31 01:20:09,176 - INFO - [Result] (FAIL) config_files/604.json
+2024-03-31 01:20:10,719 - INFO - [Config file]: config_files/605.json
+2024-03-31 01:20:10,720 - INFO - [Intent]: Find a subreddit focused on topics related to gaming consoles, and post my question, "what is the recommended console to buy these days" there
+2024-03-31 01:20:36,295 - INFO - [Result] (FAIL) config_files/605.json
+2024-03-31 01:20:36,422 - INFO - [Config file]: config_files/606.json
+2024-03-31 01:20:36,422 - INFO - [Intent]: Find a subreddit focused on topics related to NYC, and post my question, "is car necessary" there
+2024-03-31 01:22:40,678 - INFO - [Result] (FAIL) config_files/606.json
+2024-03-31 01:22:41,877 - INFO - [Config file]: config_files/607.json
+2024-03-31 01:22:41,877 - INFO - [Intent]: Find a subreddit focused on topics related to city Pittsburgh, and post my question, "places for new drivers to learn driving" there
+2024-03-31 01:23:19,810 - INFO - [Result] (FAIL) config_files/607.json
+2024-03-31 01:23:20,144 - INFO - [Config file]: config_files/608.json
+2024-03-31 01:23:20,145 - INFO - [Intent]: Find a subreddit focused on topics related to city lives in DMV area, and post my question, "safe and budge apartment to live" there
+2024-03-31 01:25:53,337 - INFO - [Result] (FAIL) config_files/608.json
+2024-03-31 01:25:54,447 - INFO - [Config file]: config_files/609.json
+2024-03-31 01:25:54,447 - INFO - [Intent]: Find a subreddit focused on topics related to ML, DL, NLP, and post my question, "what is the SOTA web navigation agent repo" there
+2024-03-31 01:27:07,395 - INFO - [Result] (FAIL) config_files/609.json
+2024-03-31 01:27:07,891 - INFO - [Config file]: config_files/610.json
+2024-03-31 01:27:07,891 - INFO - [Intent]: Post a review of my recent reading "To Kill a Mockingbird by Harper Lee" in the r/books with my comment "good book!".
+2024-03-31 01:29:19,784 - INFO - [Result] (FAIL) config_files/610.json
+2024-03-31 01:29:21,145 - INFO - [Config file]: config_files/611.json
+2024-03-31 01:29:21,145 - INFO - [Intent]: Post a review of my recent reading "Harry Potter" in the r/books with my comment "Wonderful journey".
+2024-03-31 01:30:42,354 - INFO - [Result] (FAIL) config_files/611.json
+2024-03-31 01:30:42,966 - INFO - [Config file]: config_files/612.json
+2024-03-31 01:30:42,966 - INFO - [Intent]: Post a review of my recent reading "big little lies" in the r/books with my comment "can't stop it".
+2024-03-31 01:31:48,821 - INFO - [Result] (FAIL) config_files/612.json
+2024-03-31 01:31:49,289 - INFO - [Config file]: config_files/613.json
+2024-03-31 01:31:49,289 - INFO - [Intent]: Post a review of my recent reading "Love story" in the r/books with my comment "I cried".
+2024-03-31 01:32:58,859 - INFO - [Result] (FAIL) config_files/613.json
+2024-03-31 01:32:59,742 - INFO - [Config file]: config_files/614.json
+2024-03-31 01:32:59,742 - INFO - [Intent]: Post a review of my recent reading "Gone with the wind" in the r/books with my comment "It's a book with history".
+2024-03-31 01:34:05,212 - INFO - [Result] (FAIL) config_files/614.json
+2024-03-31 01:34:06,484 - INFO - [Config file]: config_files/615.json
+2024-03-31 01:34:06,484 - INFO - [Intent]: Re-post the image of Bald Eagle in this page to earthporn subreddit and note "from /f/pics"
+2024-03-31 01:36:45,456 - INFO - [Result] (FAIL) config_files/615.json
+2024-03-31 01:36:46,256 - INFO - [Config file]: config_files/616.json
+2024-03-31 01:36:46,256 - INFO - [Intent]: Re-post the image of Thanksgiving turkey in this page to funny subreddit and note "from /f/pics"
+2024-03-31 01:37:11,638 - INFO - [Result] (FAIL) config_files/616.json
+2024-03-31 01:37:12,143 - INFO - [Config file]: config_files/617.json
+2024-03-31 01:37:12,143 - INFO - [Intent]: Re-post the image of Firework in this page to earthporn subreddit and note "from /f/pics"
+2024-03-31 01:37:48,461 - INFO - [Result] (FAIL) config_files/617.json
+2024-03-31 01:37:49,189 - INFO - [Config file]: config_files/618.json
+2024-03-31 01:37:49,189 - INFO - [Intent]: Re-post the image of Wife's costume in this page to funny subreddit and note "from /f/pics"
+2024-03-31 01:38:12,574 - INFO - [Result] (FAIL) config_files/618.json
+2024-03-31 01:38:13,230 - INFO - [Config file]: config_files/619.json
+2024-03-31 01:38:13,230 - INFO - [Intent]: Re-post the image of costume contest in this page to funny subreddit and note "from /f/pics"
+2024-03-31 01:38:49,087 - INFO - [Result] (FAIL) config_files/619.json
+2024-03-31 01:38:49,843 - INFO - [Config file]: config_files/620.json
+2024-03-31 01:38:49,843 - INFO - [Intent]: Ask for advice about deal with long-distance relationships in a subreddit for relations
+2024-03-31 01:40:09,035 - INFO - [Result] (FAIL) config_files/620.json
+2024-03-31 01:40:09,886 - INFO - [Config file]: config_files/621.json
+2024-03-31 01:40:09,887 - INFO - [Intent]: Ask for advice about cheat in a subreddit for relations
+2024-03-31 01:42:04,252 - INFO - [Result] (FAIL) config_files/621.json
+2024-03-31 01:42:06,181 - INFO - [Config file]: config_files/622.json
+2024-03-31 01:42:06,181 - INFO - [Intent]: Ask for advice about sexual harassment in a subreddit for relations

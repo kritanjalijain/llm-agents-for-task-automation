@@ -1,0 +1,6 @@
+2024-03-28 23:25:40,537 - INFO - [Config file]: config_files/13.json
+2024-03-28 23:25:40,537 - INFO - [Intent]: Tell me the the number of reviews that our store received by far that mention term "decent"
+2024-03-28 23:25:46,404 - INFO - getting next
+2024-03-28 23:25:46,408 - INFO - [Unhandled Error] TypeError('can only concatenate str (not "list") to str')]
+2024-03-28 23:25:46,409 - INFO - [Config file]: config_files/14.json
+2024-03-28 23:25:46,409 - INFO - [Intent]: Tell me the the number of reviews that our store received by far that mention term "not useful"

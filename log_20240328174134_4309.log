@@ -1,0 +1,28 @@
+2024-03-28 17:41:34,563 - INFO - [Config file]: config_files/1.json
+2024-03-28 17:41:34,564 - INFO - [Intent]: What is the top-1 best-selling brand in Quarter 1 2022
+2024-03-28 17:41:48,014 - INFO - [Result] (FAIL) config_files/1.json
+2024-03-28 17:41:48,187 - INFO - [Config file]: config_files/2.json
+2024-03-28 17:41:48,188 - INFO - [Intent]: What is the top-1 best-selling product type in Quarter 1 2022
+2024-03-28 17:42:20,195 - INFO - [Result] (FAIL) config_files/2.json
+2024-03-28 17:42:20,493 - INFO - [Config file]: config_files/3.json
+2024-03-28 17:42:20,493 - INFO - [Intent]: What are the top-2 best-selling product in 2022
+2024-03-28 17:42:35,817 - INFO - [Result] (FAIL) config_files/3.json
+2024-03-28 17:42:35,984 - INFO - [Config file]: config_files/4.json
+2024-03-28 17:42:35,984 - INFO - [Intent]: What are the top-3 best-selling product in Jan 2023
+2024-03-28 17:44:15,147 - INFO - [Result] (FAIL) config_files/4.json
+2024-03-28 17:44:16,481 - INFO - [Config file]: config_files/5.json
+2024-03-28 17:44:16,481 - INFO - [Intent]: What is the top-1 best-selling product type in Jan 2023
+2024-03-28 17:44:30,215 - INFO - [Result] (FAIL) config_files/5.json
+2024-03-28 17:44:30,390 - INFO - [Config file]: config_files/6.json
+2024-03-28 17:44:30,390 - INFO - [Intent]: What are the top-5 best-selling product in 2023
+2024-03-28 17:44:59,676 - INFO - [Result] (FAIL) config_files/6.json
+2024-03-28 17:44:59,944 - INFO - [Config file]: config_files/7.json
+2024-03-28 17:44:59,944 - INFO - [Intent]: Tell me the full address of all international airports that are within a driving distance of 50 km to Carnegie Mellon University
+2024-03-28 17:45:50,089 - INFO - [Result] (FAIL) config_files/7.json
+2024-03-28 17:45:51,482 - INFO - [Config file]: config_files/8.json
+2024-03-28 17:45:51,482 - INFO - [Intent]: Tell me the full address of all international airports that are within a driving distance of 5 km to Carnegie Mellon University
+2024-03-28 17:46:18,720 - INFO - [Result] (FAIL) config_files/8.json
+2024-03-28 17:46:20,536 - INFO - [Config file]: config_files/9.json
+2024-03-28 17:46:20,537 - INFO - [Intent]: Tell me the full address of all international airports that are within a driving distance of 30 km to Carnegie Art Museum
+2024-03-28 17:46:50,218 - INFO - [Result] (FAIL) config_files/9.json
+2024-03-28 17:46:51,557 - INFO - Average score: 0.0

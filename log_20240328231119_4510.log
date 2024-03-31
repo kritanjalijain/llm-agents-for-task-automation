@@ -1,0 +1,5 @@
+2024-03-28 23:11:20,124 - INFO - [Config file]: config_files/25.json
+2024-03-28 23:11:20,124 - INFO - [Intent]: List out reviewers, if exist, who mention about average print quality
+2024-03-28 23:11:29,148 - INFO - [Result] (FAIL) config_files/25.json
+2024-03-28 23:11:29,408 - INFO - [Config file]: config_files/26.json
+2024-03-28 23:11:29,409 - INFO - [Intent]: List out reviewers, if exist, who mention about complain of the customer service

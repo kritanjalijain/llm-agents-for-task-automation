@@ -1,0 +1,961 @@
+2024-03-29 02:22:05,347 - INFO - [Config file]: config_files/80.json
+2024-03-29 02:22:05,347 - INFO - [Intent]: What is the duration required to first walk from Carnegie Mellon University to Starbucks on Craig Street, and then drive to Pittsburgh International Airport?
+2024-03-29 02:22:33,699 - INFO - [Result] (FAIL) config_files/80.json
+2024-03-29 02:22:35,219 - INFO - [Config file]: config_files/81.json
+2024-03-29 02:22:35,219 - INFO - [Intent]: What is the duration required to first walk from Univ of Pittsburgh to starbucks on Craig Street, and then drive to Pittsburgh International Airport?
+2024-03-29 02:23:49,524 - INFO - [Result] (FAIL) config_files/81.json
+2024-03-29 02:23:52,253 - INFO - [Config file]: config_files/82.json
+2024-03-29 02:23:52,253 - INFO - [Intent]: What is the duration required to first walk from Massachusetts Institute of Technology to Harvard University, and then drive to Boston Logan International Airport?
+2024-03-29 02:24:26,333 - INFO - [Result] (FAIL) config_files/82.json
+2024-03-29 02:24:28,174 - INFO - [Config file]: config_files/83.json
+2024-03-29 02:24:28,174 - INFO - [Intent]: What is the duration required to first walk from Carnegie Mellon University to apple store shadyside, and then drive to starbucks on craig street?
+2024-03-29 02:26:27,780 - INFO - [Result] (FAIL) config_files/83.json
+2024-03-29 02:26:33,282 - INFO - [Config file]: config_files/84.json
+2024-03-29 02:26:33,282 - INFO - [Intent]: From my stay at DoubleTree by Hilton New York Downtown, what's the estimated driving time to reach Keens Steakhouse?
+2024-03-29 02:26:57,074 - INFO - [Result] (FAIL) config_files/84.json
+2024-03-29 02:26:58,235 - INFO - [Config file]: config_files/85.json
+2024-03-29 02:26:58,235 - INFO - [Intent]: From my stay at La Quinta Inn near the airport, what's the estimated driving time to reach Carnegie Mellon University?
+2024-03-29 02:27:26,742 - INFO - [Result] (FAIL) config_files/85.json
+2024-03-29 02:27:28,000 - INFO - [Config file]: config_files/86.json
+2024-03-29 02:27:28,001 - INFO - [Intent]: From my stay at La Quinta Inn near the airport, what's the estimated driving time to reach Upitt?
+2024-03-29 02:27:49,817 - INFO - [Result] (FAIL) config_files/86.json
+2024-03-29 02:27:50,789 - INFO - [Config file]: config_files/87.json
+2024-03-29 02:27:50,789 - INFO - [Intent]: From my stay at red roof inn, what's the estimated driving time to reach Pittsburgh science museum?
+2024-03-29 02:28:19,500 - INFO - [Result] (FAIL) config_files/87.json
+2024-03-29 02:28:20,321 - INFO - [Config file]: config_files/88.json
+2024-03-29 02:28:20,322 - INFO - [Intent]: From my stay at Homewood Suites Southpointe, what's the estimated driving time to reach PPG Paints Arena?
+2024-03-29 02:28:41,588 - INFO - [Result] (FAIL) config_files/88.json
+2024-03-29 02:28:42,290 - INFO - [Config file]: config_files/89.json
+2024-03-29 02:28:42,290 - INFO - [Intent]: Which US states border Connecticut?
+2024-03-29 02:29:11,858 - INFO - [Result] (FAIL) config_files/89.json
+2024-03-29 02:29:13,118 - INFO - [Config file]: config_files/90.json
+2024-03-29 02:29:13,118 - INFO - [Intent]: Which US states border Pennsylvania?
+2024-03-29 02:29:32,545 - INFO - [Result] (FAIL) config_files/90.json
+2024-03-29 02:29:33,412 - INFO - [Config file]: config_files/91.json
+2024-03-29 02:29:33,413 - INFO - [Intent]: Which US states border Massachusetts?
+2024-03-29 02:30:05,928 - INFO - [Result] (FAIL) config_files/91.json
+2024-03-29 02:30:07,404 - INFO - [Config file]: config_files/92.json
+2024-03-29 02:30:07,404 - INFO - [Intent]: Which US states border Vermont?
+2024-03-29 02:30:46,309 - INFO - [Result] (FAIL) config_files/92.json
+2024-03-29 02:30:48,178 - INFO - [Config file]: config_files/93.json
+2024-03-29 02:30:48,178 - INFO - [Intent]: Which US states border New Hampshire?
+2024-03-29 02:31:10,256 - INFO - [Result] (FAIL) config_files/93.json
+2024-03-29 02:31:11,583 - INFO - [Config file]: config_files/94.json
+2024-03-29 02:31:11,584 - INFO - [Intent]: Telll me the grand total of invoice 000000001.
+2024-03-29 02:32:05,807 - INFO - [Result] (FAIL) config_files/94.json
+2024-03-29 02:32:06,965 - INFO - [Config file]: config_files/95.json
+2024-03-29 02:32:06,966 - INFO - [Intent]: Telll me the grand total of invoice 000000002.
+2024-03-29 02:32:32,204 - INFO - [Result] (FAIL) config_files/95.json
+2024-03-29 02:32:32,406 - INFO - [Config file]: config_files/96.json
+2024-03-29 02:32:32,406 - INFO - [Intent]: Tell me the status of my latest order and when will it arrive
+2024-03-29 02:32:51,925 - INFO - [Result] (FAIL) config_files/96.json
+2024-03-29 02:32:52,403 - INFO - [Config file]: config_files/97.json
+2024-03-29 02:32:52,403 - INFO - [Intent]: Tell me the distance to drive from Carnegie Mellon University to the top computer science school in massachusetts
+2024-03-29 02:33:53,004 - INFO - [Result] (FAIL) config_files/97.json
+2024-03-29 02:33:54,774 - INFO - [Config file]: config_files/98.json
+2024-03-29 02:33:54,774 - INFO - [Intent]: Where is the nearest tea cafe to University of Pittsburgh, and what is the walking distance to it?
+2024-03-29 02:34:07,546 - INFO - [Result] (FAIL) config_files/98.json
+2024-03-29 02:34:08,234 - INFO - [Config file]: config_files/99.json
+2024-03-29 02:34:08,234 - INFO - [Intent]: Where is the nearest Five Guys to 5700 Penn Ave, and what is the walking distance to it?
+2024-03-29 02:34:37,218 - INFO - [Result] (FAIL) config_files/99.json
+2024-03-29 02:34:38,524 - INFO - [Config file]: config_files/100.json
+2024-03-29 02:34:38,524 - INFO - [Intent]: Where is the nearest Starbucks to Carnegie Mellon, and what is the walking distance to it?
+2024-03-29 02:35:17,493 - INFO - [Result] (FAIL) config_files/100.json
+2024-03-29 02:35:19,044 - INFO - [Config file]: config_files/101.json
+2024-03-29 02:35:19,044 - INFO - [Intent]: Where is the nearest In-N-Out to Upitts, and what is the walking distance to it?
+2024-03-29 02:35:34,907 - INFO - [Result] (PASS) config_files/101.json
+2024-03-29 02:35:35,643 - INFO - [Config file]: config_files/102.json
+2024-03-29 02:35:35,643 - INFO - [Intent]: Display the list of issues in the a11yproject/a11yproject.com repository that have labels related to help needed
+2024-03-29 02:38:36,631 - INFO - [Result] (FAIL) config_files/102.json
+2024-03-29 02:38:39,173 - INFO - [Config file]: config_files/103.json
+2024-03-29 02:38:39,173 - INFO - [Intent]: Display the list of issues in the kkroening/ffmpeg-python repository that have labels related to questions
+2024-03-29 02:41:21,111 - INFO - [Result] (FAIL) config_files/103.json
+2024-03-29 02:41:23,016 - INFO - [Config file]: config_files/104.json
+2024-03-29 02:41:23,017 - INFO - [Intent]: Display the list of issues in the keycloak/keycloak repository that have labels related to flaky-test
+2024-03-29 02:43:37,469 - INFO - [Result] (FAIL) config_files/104.json
+2024-03-29 02:43:39,440 - INFO - [Config file]: config_files/105.json
+2024-03-29 02:43:39,440 - INFO - [Intent]: Display the list of issues in the OpenAPITools/openapi-generator repository that have labels related to OpenAPI Generator CLI
+2024-03-29 02:46:37,217 - INFO - [Result] (FAIL) config_files/105.json
+2024-03-29 02:46:39,436 - INFO - [Config file]: config_files/106.json
+2024-03-29 02:46:39,436 - INFO - [Intent]: Display the list of issues in the umano/AndroidSlidingUpPanel repository that have labels related to BUG
+2024-03-29 02:47:26,778 - INFO - [Result] (FAIL) config_files/106.json
+2024-03-29 02:47:27,499 - INFO - [Config file]: config_files/107.json
+2024-03-29 02:47:27,499 - INFO - [Intent]: Presents the monthly count of successful orders from May to December 2022 in MM:COUNT format
+2024-03-29 02:47:39,138 - INFO - [Result] (FAIL) config_files/107.json
+2024-03-29 02:47:39,297 - INFO - [Config file]: config_files/108.json
+2024-03-29 02:47:39,297 - INFO - [Intent]: Presents the monthly count of successful orders 01/2023-05/2023 in MM:COUNT format
+2024-03-29 02:48:09,547 - INFO - [Result] (FAIL) config_files/108.json
+2024-03-29 02:48:09,836 - INFO - [Config file]: config_files/109.json
+2024-03-29 02:48:09,836 - INFO - [Intent]: Presents the monthly count of successful orders from Jan to December 2022 in MM:COUNT format
+2024-03-29 02:48:41,163 - INFO - [Result] (FAIL) config_files/109.json
+2024-03-29 02:48:41,392 - INFO - [Config file]: config_files/110.json
+2024-03-29 02:48:41,392 - INFO - [Intent]: Presents the monthly count of successful orders from Jan to Nov 2022 in MM:COUNT format
+2024-03-29 02:49:24,989 - INFO - [Result] (FAIL) config_files/110.json
+2024-03-29 02:49:25,396 - INFO - [Config file]: config_files/111.json
+2024-03-29 02:49:25,396 - INFO - [Intent]: Presents the monthly count of successful orders from Feb to Nov 2022 in MM:COUNT format
+2024-03-29 02:50:26,560 - INFO - [Result] (FAIL) config_files/111.json
+2024-03-29 02:50:27,163 - INFO - [Config file]: config_files/112.json
+2024-03-29 02:50:27,163 - INFO - [Intent]: Show me the customers who have expressed dissatisfaction with Circe fleece?
+2024-03-29 02:52:41,105 - INFO - [Result] (FAIL) config_files/112.json
+2024-03-29 02:52:41,468 - INFO - [Config file]: config_files/113.json
+2024-03-29 02:52:41,468 - INFO - [Intent]: Show me the customers who have expressed dissatisfaction with Olivia zip jacket?
+2024-03-29 02:53:04,209 - INFO - [Result] (FAIL) config_files/113.json
+2024-03-29 02:53:04,448 - INFO - [Config file]: config_files/114.json
+2024-03-29 02:53:04,448 - INFO - [Intent]: Show me the customers who have expressed dissatisfaction with Antonia racer tank?
+2024-03-29 02:53:20,872 - INFO - [Result] (FAIL) config_files/114.json
+2024-03-29 02:53:21,233 - INFO - [Config file]: config_files/115.json
+2024-03-29 02:53:21,233 - INFO - [Intent]: Show me the name of the customers who have expressed dissatisfaction with Chloe tank
+2024-03-29 02:53:44,574 - INFO - [Result] (FAIL) config_files/115.json
+2024-03-29 02:53:44,783 - INFO - [Config file]: config_files/116.json
+2024-03-29 02:53:44,783 - INFO - [Intent]: Show me the name of the customers who have expressed dissatisfaction with tanks products?
+2024-03-29 02:57:24,148 - INFO - [Result] (FAIL) config_files/116.json
+2024-03-29 02:57:25,755 - INFO - [Config file]: config_files/117.json
+2024-03-29 02:57:25,755 - INFO - [Intent]: What is the date when I made my first purchase on this site?
+2024-03-29 02:57:54,667 - INFO - [Result] (FAIL) config_files/117.json
+2024-03-29 02:57:55,132 - INFO - [Config file]: config_files/118.json
+2024-03-29 02:57:55,132 - INFO - [Intent]: I have jaw bruxism problem, show me something that could alleviate the problem.
+2024-03-29 02:59:33,288 - INFO - [Result] (FAIL) config_files/118.json
+2024-03-29 02:59:33,691 - INFO - [Config file]: config_files/119.json
+2024-03-29 02:59:33,691 - INFO - [Intent]: Tell me the reasons why customers like Antonia Racer Tank
+2024-03-29 03:02:30,762 - INFO - [Result] (FAIL) config_files/119.json
+2024-03-29 03:02:32,715 - INFO - [Config file]: config_files/120.json
+2024-03-29 03:02:32,715 - INFO - [Intent]: Tell me the reasons why customers like Ana Running Short
+2024-03-29 03:04:13,353 - INFO - [Result] (FAIL) config_files/120.json
+2024-03-29 03:04:14,276 - INFO - [Config file]: config_files/121.json
+2024-03-29 03:04:14,276 - INFO - [Intent]: Tell me the reasons why customers like Circe hooded fleece
+2024-03-29 03:05:36,183 - INFO - [Result] (FAIL) config_files/121.json
+2024-03-29 03:05:36,366 - INFO - [Config file]: config_files/122.json
+2024-03-29 03:05:36,366 - INFO - [Intent]: Tell me the reasons why customers like Olivia zip jacket
+2024-03-29 03:06:20,181 - INFO - [Result] (FAIL) config_files/122.json
+2024-03-29 03:06:20,732 - INFO - [Config file]: config_files/123.json
+2024-03-29 03:06:20,732 - INFO - [Intent]: Tell me the reasons why customers like Circe's products
+2024-03-29 03:06:45,315 - INFO - [Result] (FAIL) config_files/123.json
+2024-03-29 03:06:45,567 - INFO - [Config file]: config_files/124.json
+2024-03-29 03:06:45,567 - INFO - [Intent]: What is the price range of wireless earphone in the One Stop Market?
+2024-03-29 03:08:41,896 - INFO - [Result] (FAIL) config_files/124.json
+2024-03-29 03:08:43,654 - INFO - [Config file]: config_files/125.json
+2024-03-29 03:08:43,655 - INFO - [Intent]: What is the price range of teeth grinding mouth guard in the One Stop Market?
+2024-03-29 03:08:56,767 - INFO - [Result] (FAIL) config_files/125.json
+2024-03-29 03:08:57,082 - INFO - [Config file]: config_files/126.json
+2024-03-29 03:08:57,082 - INFO - [Intent]: What is the price range of Canon photo printer in the One Stop Market?
+2024-03-29 03:12:13,914 - INFO - [Result] (FAIL) config_files/126.json
+2024-03-29 03:12:15,914 - INFO - [Config file]: config_files/127.json
+2024-03-29 03:12:15,914 - INFO - [Intent]: What brands appear most frequently among the top search terms?
+2024-03-29 03:12:59,518 - INFO - [Result] (FAIL) config_files/127.json
+2024-03-29 03:13:00,007 - INFO - [Config file]: config_files/128.json
+2024-03-29 03:13:00,007 - INFO - [Intent]: What's the total number of items sold in the most recent 2 orders?
+2024-03-29 03:13:09,202 - INFO - [Result] (PASS) config_files/128.json
+2024-03-29 03:13:09,360 - INFO - [Config file]: config_files/129.json
+2024-03-29 03:13:09,361 - INFO - [Intent]: What's the total number of items sold in the most recent 4 orders?
+2024-03-29 03:14:30,678 - INFO - [Result] (FAIL) config_files/129.json
+2024-03-29 03:14:31,467 - INFO - [Config file]: config_files/130.json
+2024-03-29 03:14:31,467 - INFO - [Intent]: What's the total number of items sold in the most recent 5 orders?
+2024-03-29 03:14:39,710 - INFO - [Result] (FAIL) config_files/130.json
+2024-03-29 03:14:39,907 - INFO - [Config file]: config_files/131.json
+2024-03-29 03:14:39,908 - INFO - [Intent]: What's the total number of items sold in the most recent 7 orders?
+2024-03-29 03:14:48,124 - INFO - [Result] (FAIL) config_files/131.json
+2024-03-29 03:14:48,271 - INFO - [Config file]: config_files/132.json
+2024-03-29 03:14:48,272 - INFO - [Intent]: How many commits did kilian make to a11yproject on 3/5/2023?
+2024-03-29 03:15:08,623 - INFO - [Result] (FAIL) config_files/132.json
+2024-03-29 03:15:08,941 - INFO - [Config file]: config_files/133.json
+2024-03-29 03:15:08,941 - INFO - [Intent]: How many commits did Eric make to a11yproject on 3/2?
+2024-03-29 03:15:56,050 - INFO - [Result] (FAIL) config_files/133.json
+2024-03-29 03:15:56,683 - INFO - [Config file]: config_files/134.json
+2024-03-29 03:15:56,683 - INFO - [Intent]: How many commits did kilian make to a11yproject on 3/1/2023?
+2024-03-29 03:17:50,888 - INFO - [Result] (FAIL) config_files/134.json
+2024-03-29 03:17:52,180 - INFO - [Config file]: config_files/135.json
+2024-03-29 03:17:52,181 - INFO - [Intent]: How many commits did Eric and Kilian make to a11yproject on 1/3/2023?
+2024-03-29 03:18:26,572 - INFO - [Result] (FAIL) config_files/135.json
+2024-03-29 03:18:27,388 - INFO - [Config file]: config_files/136.json
+2024-03-29 03:18:27,388 - INFO - [Intent]: How many commits did Steven Woodson make to a11y-webring.club on 2/6/2023?
+2024-03-29 03:19:15,000 - INFO - [Result] (FAIL) config_files/136.json
+2024-03-29 03:19:17,115 - INFO - [Config file]: config_files/137.json
+2024-03-29 03:19:17,115 - INFO - [Intent]: What is the estimated driving time between the city where the Liberty Bell is located and the home city of Pirates?
+2024-03-29 03:20:21,481 - INFO - [Result] (FAIL) config_files/137.json
+2024-03-29 03:20:23,396 - INFO - [Config file]: config_files/138.json
+2024-03-29 03:20:23,397 - INFO - [Intent]: What is the estimated driving time between the big apple and the city with the most authentic Philly cheesesteaks?
+2024-03-29 03:22:00,326 - INFO - [Result] (PASS) config_files/138.json
+2024-03-29 03:22:07,303 - INFO - [Config file]: config_files/139.json
+2024-03-29 03:22:07,304 - INFO - [Intent]: What is the estimated driving time between the hometown of Joe Biden and Bridgeport?
+2024-03-29 03:22:16,984 - INFO - [Result] (FAIL) config_files/139.json
+2024-03-29 03:22:17,463 - INFO - [Config file]: config_files/140.json
+2024-03-29 03:22:17,463 - INFO - [Intent]: What is the estimated driving time between the city of Niagara Falls and the city of Yale University?
+2024-03-29 03:22:41,869 - INFO - [Result] (FAIL) config_files/140.json
+2024-03-29 03:22:42,468 - INFO - [Config file]: config_files/141.json
+2024-03-29 03:22:42,468 - INFO - [Intent]: How much I spent on food-related shopping during March 2023
+2024-03-29 03:22:55,048 - INFO - [Result] (FAIL) config_files/141.json
+2024-03-29 03:22:55,339 - INFO - [Config file]: config_files/142.json
+2024-03-29 03:22:55,339 - INFO - [Intent]: How much I spent on hair care and hair style shopping during Jan 2023
+2024-03-29 03:23:07,679 - INFO - [Result] (FAIL) config_files/142.json
+2024-03-29 03:23:07,971 - INFO - [Config file]: config_files/143.json
+2024-03-29 03:23:07,971 - INFO - [Intent]: How much I spent on home decoration shopping during 1/29/2023
+2024-03-29 03:24:42,757 - INFO - [Result] (FAIL) config_files/143.json
+2024-03-29 03:24:44,229 - INFO - [Config file]: config_files/144.json
+2024-03-29 03:24:44,230 - INFO - [Intent]: How much I spent on food shopping during from mid Jan to the end Jan 2023
+2024-03-29 03:25:18,409 - INFO - [Result] (FAIL) config_files/144.json
+2024-03-29 03:25:19,032 - INFO - [Config file]: config_files/145.json
+2024-03-29 03:25:19,033 - INFO - [Intent]: How much I spent on cooking and food shopping during March 2022
+2024-03-29 03:26:36,012 - INFO - [Result] (FAIL) config_files/145.json
+2024-03-29 03:26:36,830 - INFO - [Config file]: config_files/146.json
+2024-03-29 03:26:36,830 - INFO - [Intent]: What is the size configuration of the picture frame I bought Sep 2022
+2024-03-29 03:27:50,374 - INFO - [Result] (FAIL) config_files/146.json
+2024-03-29 03:27:51,244 - INFO - [Config file]: config_files/147.json
+2024-03-29 03:27:51,244 - INFO - [Intent]: What is the size configuration of the picture frame I bought 2022
+2024-03-29 03:29:37,277 - INFO - [Result] (FAIL) config_files/147.json
+2024-03-29 03:29:38,409 - INFO - [Config file]: config_files/148.json
+2024-03-29 03:29:38,409 - INFO - [Intent]: What is the color configuration of the picture frame I bought Sep 2022
+2024-03-29 03:30:06,962 - INFO - [Result] (FAIL) config_files/148.json
+2024-03-29 03:30:07,435 - INFO - [Config file]: config_files/149.json
+2024-03-29 03:30:07,435 - INFO - [Intent]: What is the color configuration of the artifical plants I bought Feb 2023
+2024-03-29 03:31:53,286 - INFO - [Result] (FAIL) config_files/149.json
+2024-03-29 03:31:54,390 - INFO - [Config file]: config_files/150.json
+2024-03-29 03:31:54,391 - INFO - [Intent]: What is the price configuration of the fake tree I bought Jan 2023
+2024-03-29 03:32:28,962 - INFO - [Result] (FAIL) config_files/150.json
+2024-03-29 03:32:29,351 - INFO - [Config file]: config_files/151.json
+2024-03-29 03:32:29,351 - INFO - [Intent]: What is the minimum travel time by car from CMU to University of Pittsburgh?
+2024-03-29 03:32:53,465 - INFO - [Result] (FAIL) config_files/151.json
+2024-03-29 03:32:54,881 - INFO - [Config file]: config_files/152.json
+2024-03-29 03:32:54,881 - INFO - [Intent]: What is the minimum travel time by car from Schenley park to Upitt?
+2024-03-29 03:33:20,545 - INFO - [Result] (FAIL) config_files/152.json
+2024-03-29 03:33:22,074 - INFO - [Config file]: config_files/153.json
+2024-03-29 03:33:22,074 - INFO - [Intent]: What is the minimum travel time by car from REI to CMU?
+2024-03-29 03:34:47,413 - INFO - [Result] (FAIL) config_files/153.json
+2024-03-29 03:34:50,123 - INFO - [Config file]: config_files/154.json
+2024-03-29 03:34:50,123 - INFO - [Intent]: What is the minimum travel time by car from CMU gates building to Schenley park?
+2024-03-29 03:35:17,145 - INFO - [Result] (FAIL) config_files/154.json
+2024-03-29 03:35:18,257 - INFO - [Config file]: config_files/155.json
+2024-03-29 03:35:18,257 - INFO - [Intent]: What is the minimum travel time by car from Animal Rescue League of Pittsburgh to Schenley park?
+2024-03-29 03:35:40,689 - INFO - [Result] (FAIL) config_files/155.json
+2024-03-29 03:35:41,537 - INFO - [Config file]: config_files/156.json
+2024-03-29 03:35:41,537 - INFO - [Intent]: Checkout merge requests assigned to me
+2024-03-29 03:37:04,058 - INFO - [Result] (FAIL) config_files/156.json
+2024-03-29 03:37:05,811 - INFO - [Config file]: config_files/157.json
+2024-03-29 03:37:05,811 - INFO - [Intent]: Show all customers
+2024-03-29 03:38:46,414 - INFO - [Result] (PASS) config_files/157.json
+2024-03-29 03:38:47,429 - INFO - [Config file]: config_files/158.json
+2024-03-29 03:38:47,430 - INFO - [Intent]: I have a lot of Nintendo Switch game cards now, help me find the best storage option to fit all 11 cards
+2024-03-29 03:39:41,983 - INFO - [Result] (FAIL) config_files/158.json
+2024-03-29 03:39:43,263 - INFO - [Config file]: config_files/159.json
+2024-03-29 03:39:43,263 - INFO - [Intent]: I have a lot of Nintendo Switch game cards now, help me find the best storage option to fit all 31 cards
+2024-03-29 03:40:12,885 - INFO - [Result] (FAIL) config_files/159.json
+2024-03-29 03:40:13,385 - INFO - [Config file]: config_files/160.json
+2024-03-29 03:40:13,385 - INFO - [Intent]: I have a lot of Nintendo Switch game cards now, help me find the best storage option to fit all 6 cards
+2024-03-29 03:42:20,016 - INFO - [Result] (FAIL) config_files/160.json
+2024-03-29 03:42:22,075 - INFO - [Config file]: config_files/161.json
+2024-03-29 03:42:22,076 - INFO - [Intent]: I have a lot of Nintendo Switch game cards now, help me find the best storage option to fit all 23 cards
+2024-03-29 03:43:20,921 - INFO - [Result] (FAIL) config_files/161.json
+2024-03-29 03:43:21,622 - INFO - [Config file]: config_files/162.json
+2024-03-29 03:43:21,622 - INFO - [Intent]: I have a lot of Nintendo Switch game cards now, help me find the best storage option to fit all 40 cards
+2024-03-29 03:46:51,471 - INFO - [Result] (FAIL) config_files/162.json
+2024-03-29 03:46:54,761 - INFO - [Config file]: config_files/163.json
+2024-03-29 03:46:54,761 - INFO - [Intent]: What are the main criticisms of this product? Please extract the relevant sentences.
+2024-03-29 03:48:55,548 - INFO - [Result] (FAIL) config_files/163.json
+2024-03-29 03:48:56,491 - INFO - [Config file]: config_files/164.json
+2024-03-29 03:48:56,492 - INFO - [Intent]: What are the main criticisms of this product? Please extract the relevant sentences.
+2024-03-29 03:49:07,514 - INFO - [Result] (FAIL) config_files/164.json
+2024-03-29 03:49:07,695 - INFO - [Config file]: config_files/165.json
+2024-03-29 03:49:07,695 - INFO - [Intent]: What are the main criticisms of this product? Please extract the relevant sentences.
+2024-03-29 03:49:25,780 - INFO - [Result] (FAIL) config_files/165.json
+2024-03-29 03:49:26,069 - INFO - [Config file]: config_files/166.json
+2024-03-29 03:49:26,069 - INFO - [Intent]: What are the main criticisms of this product? Please extract the relevant sentences.
+2024-03-29 03:49:57,222 - INFO - [Result] (FAIL) config_files/166.json
+2024-03-29 03:49:57,475 - INFO - [Config file]: config_files/167.json
+2024-03-29 03:49:57,475 - INFO - [Intent]: What are the main criticisms of this product? Please extract the relevant sentences.
+2024-03-29 03:50:15,654 - INFO - [Result] (FAIL) config_files/167.json
+2024-03-29 03:50:15,889 - INFO - [Config file]: config_files/168.json
+2024-03-29 03:50:15,889 - INFO - [Intent]: Tell me the full names of the repositories where I made contributions and they got more than 100 stars?
+2024-03-29 03:52:42,289 - INFO - [Result] (FAIL) config_files/168.json
+2024-03-29 03:52:44,553 - INFO - [Config file]: config_files/169.json
+2024-03-29 03:52:44,553 - INFO - [Intent]: Tell me the full names of the repositories where I made contributions and they got the most stars?
+2024-03-29 03:53:11,229 - INFO - [Result] (PASS) config_files/169.json
+2024-03-29 03:53:11,672 - INFO - [Config file]: config_files/170.json
+2024-03-29 03:53:11,672 - INFO - [Intent]: Tell me the full names of the repositories where I made contributions and they got the least stars?
+2024-03-29 03:56:17,276 - INFO - [Result] (FAIL) config_files/170.json
+2024-03-29 03:56:20,772 - INFO - [Config file]: config_files/171.json
+2024-03-29 03:56:20,772 - INFO - [Intent]: Tell me the full names of the repositories where I made contributions and they got less than 5 stars?
+2024-03-29 03:58:05,906 - INFO - [Result] (FAIL) config_files/171.json
+2024-03-29 03:58:07,761 - INFO - [Config file]: config_files/172.json
+2024-03-29 03:58:07,761 - INFO - [Intent]: Tell me the full names of the repositories where I made contributions and they got no stars?
+2024-03-29 03:59:46,300 - INFO - [Result] (FAIL) config_files/172.json
+2024-03-29 03:59:48,443 - INFO - [Config file]: config_files/173.json
+2024-03-29 03:59:48,444 - INFO - [Intent]: Open my latest updated issue that has keyword "better" in its title to check if it is closed
+2024-03-29 04:00:49,977 - INFO - [Result] (FAIL) config_files/173.json
+2024-03-29 04:00:50,733 - INFO - [Config file]: config_files/174.json
+2024-03-29 04:00:50,733 - INFO - [Intent]: Open my latest updated issue that has keyword "feature" in its title to check if it is closed
+2024-03-29 04:01:33,950 - INFO - [Result] (FAIL) config_files/174.json
+2024-03-29 04:01:34,539 - INFO - [Config file]: config_files/175.json
+2024-03-29 04:01:34,539 - INFO - [Intent]: Open my latest updated issue that has keyword "dependency" in its title to check if it is closed
+2024-03-29 04:03:58,926 - INFO - [Result] (FAIL) config_files/175.json
+2024-03-29 04:04:01,152 - INFO - [Config file]: config_files/176.json
+2024-03-29 04:04:01,152 - INFO - [Intent]: Open my latest updated issue that has keyword "theme editor" in its title to check if it is closed
+2024-03-29 04:06:35,981 - INFO - [Result] (FAIL) config_files/176.json
+2024-03-29 04:06:38,963 - INFO - [Config file]: config_files/177.json
+2024-03-29 04:06:38,964 - INFO - [Intent]: Open my latest updated issue that has keyword "homepage content" in its title to check if it is closed
+2024-03-29 04:08:54,787 - INFO - [Result] (FAIL) config_files/177.json
+2024-03-29 04:08:56,681 - INFO - [Config file]: config_files/178.json
+2024-03-29 04:08:56,682 - INFO - [Intent]: Open my latest created issue that has better in its title to check if it is closed
+2024-03-29 04:11:27,104 - INFO - [Result] (FAIL) config_files/178.json
+2024-03-29 04:11:29,507 - INFO - [Config file]: config_files/179.json
+2024-03-29 04:11:29,507 - INFO - [Intent]: Open my latest created issue that has feature in its title to check if it is closed
+2024-03-29 04:13:49,174 - INFO - [Result] (FAIL) config_files/179.json
+2024-03-29 04:13:52,123 - INFO - [Config file]: config_files/180.json
+2024-03-29 04:13:52,123 - INFO - [Intent]: Open my latest created issue that has dependency in its title to check if it is closed
+2024-03-29 04:14:58,472 - INFO - [Result] (FAIL) config_files/180.json
+2024-03-29 04:14:59,822 - INFO - [Config file]: config_files/181.json
+2024-03-29 04:14:59,822 - INFO - [Intent]: Open my latest created issue that has theme editor in its title to check if it is closed
+2024-03-29 04:19:07,529 - INFO - [Result] (FAIL) config_files/181.json
+2024-03-29 04:19:12,678 - INFO - [Config file]: config_files/182.json
+2024-03-29 04:19:12,680 - INFO - [Intent]: Open my latest created issue that has homepage content in its title to check if it is closed
+2024-03-29 04:21:58,077 - INFO - [Result] (FAIL) config_files/182.json
+2024-03-29 04:22:01,001 - INFO - [Config file]: config_files/183.json
+2024-03-29 04:22:01,001 - INFO - [Intent]: Give me the SKU of the products that have 10 units left
+2024-03-29 04:22:37,779 - INFO - [Result] (FAIL) config_files/183.json
+2024-03-29 04:22:38,124 - INFO - [Config file]: config_files/184.json
+2024-03-29 04:22:38,124 - INFO - [Intent]: Give me the name of the products that have 0 units left
+2024-03-29 04:23:00,381 - INFO - [Result] (FAIL) config_files/184.json
+2024-03-29 04:23:00,579 - INFO - [Config file]: config_files/185.json
+2024-03-29 04:23:00,579 - INFO - [Intent]: Give me the brand of the products that have 3 units left
+2024-03-29 04:23:22,235 - INFO - [Result] (FAIL) config_files/185.json
+2024-03-29 04:23:22,511 - INFO - [Config file]: config_files/186.json
+2024-03-29 04:23:22,511 - INFO - [Intent]: Give me the product names and the sizes of the products that have 2-3 units left
+2024-03-29 04:23:57,517 - INFO - [Result] (FAIL) config_files/186.json
+2024-03-29 04:23:57,800 - INFO - [Config file]: config_files/187.json
+2024-03-29 04:23:57,800 - INFO - [Intent]: Give me the SKU of the products that have 1-3 units left
+2024-03-29 04:24:24,467 - INFO - [Result] (FAIL) config_files/187.json
+2024-03-29 04:24:24,680 - INFO - [Config file]: config_files/188.json
+2024-03-29 04:24:24,680 - INFO - [Intent]: Tell me the total cost of my latest cancelled order?
+2024-03-29 04:24:49,129 - INFO - [Result] (PASS) config_files/188.json
+2024-03-29 04:24:49,644 - INFO - [Config file]: config_files/189.json
+2024-03-29 04:24:49,644 - INFO - [Intent]: Tell me the total cost of my latest pending order?
+2024-03-29 04:25:14,842 - INFO - [Result] (FAIL) config_files/189.json
+2024-03-29 04:25:15,426 - INFO - [Config file]: config_files/190.json
+2024-03-29 04:25:15,426 - INFO - [Intent]: Tell me the total cost of my latest complete order?
+2024-03-29 04:25:35,674 - INFO - [Result] (FAIL) config_files/190.json
+2024-03-29 04:25:36,059 - INFO - [Config file]: config_files/191.json
+2024-03-29 04:25:36,059 - INFO - [Intent]: Tell me the total cost of my latest processing order?
+2024-03-29 04:26:05,580 - INFO - [Result] (FAIL) config_files/191.json
+2024-03-29 04:26:06,321 - INFO - [Config file]: config_files/192.json
+2024-03-29 04:26:06,321 - INFO - [Intent]: Tell me the total cost of my latest non-cancelled order?
+2024-03-29 04:27:22,373 - INFO - [Result] (FAIL) config_files/192.json
+2024-03-29 04:27:23,257 - INFO - [Config file]: config_files/193.json
+2024-03-29 04:27:23,258 - INFO - [Intent]: Get the total payment amount of the last 2 completed orders
+2024-03-29 04:30:03,109 - INFO - [Result] (FAIL) config_files/193.json
+2024-03-29 04:30:05,491 - INFO - [Config file]: config_files/194.json
+2024-03-29 04:30:05,491 - INFO - [Intent]: Get the total payment amount of the last 5 completed orders
+2024-03-29 04:30:41,712 - INFO - [Result] (FAIL) config_files/194.json
+2024-03-29 04:30:42,157 - INFO - [Config file]: config_files/195.json
+2024-03-29 04:30:42,157 - INFO - [Intent]: Get the total payment amount of the last 5 pending orders
+2024-03-29 04:30:59,778 - INFO - [Result] (FAIL) config_files/195.json
+2024-03-29 04:30:59,972 - INFO - [Config file]: config_files/196.json
+2024-03-29 04:30:59,972 - INFO - [Intent]: Compare the payment difference of the last 4 cancelled orders and completed orders
+2024-03-29 04:31:41,746 - INFO - [Result] (FAIL) config_files/196.json
+2024-03-29 04:31:42,123 - INFO - [Config file]: config_files/197.json
+2024-03-29 04:31:42,123 - INFO - [Intent]: Get the total payment amount of the last 5 non-cancelled orders
+2024-03-29 04:32:00,109 - INFO - [Result] (FAIL) config_files/197.json
+2024-03-29 04:32:00,311 - INFO - [Config file]: config_files/198.json
+2024-03-29 04:32:00,312 - INFO - [Intent]: Get the customer name of the most recent cancelled order
+2024-03-29 04:32:20,771 - INFO - [Result] (FAIL) config_files/198.json
+2024-03-29 04:32:20,959 - INFO - [Config file]: config_files/199.json
+2024-03-29 04:32:20,959 - INFO - [Intent]: Get the order ID of the newest pending order
+2024-03-29 04:34:36,492 - INFO - [Result] (FAIL) config_files/199.json
+2024-03-29 04:34:38,008 - INFO - [Config file]: config_files/200.json
+2024-03-29 04:34:38,008 - INFO - [Intent]: Get the billing name of the oldest complete order
+2024-03-29 04:35:34,176 - INFO - [Result] (FAIL) config_files/200.json
+2024-03-29 04:35:34,771 - INFO - [Config file]: config_files/201.json
+2024-03-29 04:35:34,771 - INFO - [Intent]: Get the customer name of the earliest fraud suspect order
+2024-03-29 04:36:13,534 - INFO - [Result] (FAIL) config_files/201.json
+2024-03-29 04:36:13,850 - INFO - [Config file]: config_files/202.json
+2024-03-29 04:36:13,851 - INFO - [Intent]: Get the date of the most recent canlled order
+2024-03-29 04:38:39,131 - INFO - [Result] (FAIL) config_files/202.json
+2024-03-29 04:38:40,658 - INFO - [Config file]: config_files/203.json
+2024-03-29 04:38:40,658 - INFO - [Intent]: Get the purchase date and order id of the most recent pending order
+2024-03-29 04:39:17,341 - INFO - [Result] (FAIL) config_files/203.json
+2024-03-29 04:39:17,751 - INFO - [Config file]: config_files/204.json
+2024-03-29 04:39:17,751 - INFO - [Intent]: Get the product name and discounted price (low to high) of the most recent completed order
+2024-03-29 04:39:52,960 - INFO - [Result] (FAIL) config_files/204.json
+2024-03-29 04:39:53,262 - INFO - [Config file]: config_files/205.json
+2024-03-29 04:39:53,262 - INFO - [Intent]: How many commits did kilian make on 3/5/2023?
+2024-03-29 04:40:43,251 - INFO - [Result] (PASS) config_files/205.json
+2024-03-29 04:40:46,018 - INFO - [Config file]: config_files/206.json
+2024-03-29 04:40:46,018 - INFO - [Intent]: How many commits did Eric make on 3/2?
+2024-03-29 04:41:44,622 - INFO - [Result] (FAIL) config_files/206.json
+2024-03-29 04:41:45,603 - INFO - [Config file]: config_files/207.json
+2024-03-29 04:41:45,604 - INFO - [Intent]: How many commits did Eric and Kilian make on 1/3/2023 in total?
+2024-03-29 04:42:16,909 - INFO - [Result] (FAIL) config_files/207.json
+2024-03-29 04:42:17,588 - INFO - [Config file]: config_files/208.json
+2024-03-29 04:42:17,588 - INFO - [Intent]: Find the customer name and email with phone number +1 2058812302
+2024-03-29 04:44:32,359 - INFO - [Result] (FAIL) config_files/208.json
+2024-03-29 04:44:33,761 - INFO - [Config file]: config_files/209.json
+2024-03-29 04:44:33,762 - INFO - [Intent]: Find the customer name and email with phone number 2137418080
+2024-03-29 04:45:20,652 - INFO - [Result] (FAIL) config_files/209.json
+2024-03-29 04:45:21,144 - INFO - [Config file]: config_files/210.json
+2024-03-29 04:45:21,145 - INFO - [Intent]: Find the customer name and email with phone number 2065555555
+2024-03-29 04:47:59,810 - INFO - [Result] (FAIL) config_files/210.json
+2024-03-29 04:48:01,970 - INFO - [Config file]: config_files/211.json
+2024-03-29 04:48:01,970 - INFO - [Intent]: Find the customer name and email with phone number 8015551212
+2024-03-29 04:50:03,988 - INFO - [Result] (FAIL) config_files/211.json
+2024-03-29 04:50:05,716 - INFO - [Config file]: config_files/212.json
+2024-03-29 04:50:05,716 - INFO - [Intent]: Find the customer name and email with phone number 555-229-3326
+2024-03-29 04:51:12,506 - INFO - [Result] (FAIL) config_files/212.json
+2024-03-29 04:51:13,047 - INFO - [Config file]: config_files/213.json
+2024-03-29 04:51:13,047 - INFO - [Intent]: What are the key aspects that the customers don't like about Antonia Racer Tank
+2024-03-29 04:52:16,807 - INFO - [Result] (PASS) config_files/213.json
+2024-03-29 04:52:17,248 - INFO - [Config file]: config_files/214.json
+2024-03-29 04:52:17,248 - INFO - [Intent]: What are the key aspects that the customers don't like about Zing Jump Rope
+2024-03-29 04:52:47,281 - INFO - [Result] (FAIL) config_files/214.json
+2024-03-29 04:52:47,412 - INFO - [Config file]: config_files/215.json
+2024-03-29 04:52:47,412 - INFO - [Intent]: What are the key aspects that the customers don't like about Circe ice fleece
+2024-03-29 04:53:21,608 - INFO - [Result] (FAIL) config_files/215.json
+2024-03-29 04:53:21,881 - INFO - [Config file]: config_files/216.json
+2024-03-29 04:53:21,881 - INFO - [Intent]: What are the key aspects that the customers don't like about Electra Bra Top
+2024-03-29 04:54:08,571 - INFO - [Result] (FAIL) config_files/216.json
+2024-03-29 04:54:08,916 - INFO - [Config file]: config_files/217.json
+2024-03-29 04:54:08,916 - INFO - [Intent]: What are the key aspects that the customers don't like about Pursuit Tone Band
+2024-03-29 04:54:44,769 - INFO - [Result] (FAIL) config_files/217.json
+2024-03-29 04:54:45,017 - INFO - [Config file]: config_files/218.json
+2024-03-29 04:54:45,018 - INFO - [Intent]: Show me the walking distance from nearby hotels to CMU, Pittsburgh that take at most 5 minutes?
+2024-03-29 04:55:42,605 - INFO - [Result] (PASS) config_files/218.json
+2024-03-29 04:55:45,730 - INFO - [Config file]: config_files/219.json
+2024-03-29 04:55:45,730 - INFO - [Intent]: Show me the walking distance from nearby hotels to Pittsburgh airport that take at most 3 minutes?
+2024-03-29 04:55:57,919 - INFO - [Result] (PASS) config_files/219.json
+2024-03-29 04:55:58,445 - INFO - [Config file]: config_files/220.json
+2024-03-29 04:55:58,445 - INFO - [Intent]: Show me the walking distance from nearby hotels to Gardner Steel Conference Center, that take at most 5 minutes?
+2024-03-29 04:56:30,308 - INFO - [Result] (FAIL) config_files/220.json
+2024-03-29 04:56:31,631 - INFO - [Config file]: config_files/221.json
+2024-03-29 04:56:31,631 - INFO - [Intent]: I am at CMU Pittsburgh, how long it takes to the nearest USPS postal office with different transportation methods?
+2024-03-29 04:56:56,384 - INFO - [Result] (FAIL) config_files/221.json
+2024-03-29 04:56:57,376 - INFO - [Config file]: config_files/222.json
+2024-03-29 04:56:57,377 - INFO - [Intent]: I am at CMU Pittsburgh, how long it takes to drive to the nearest cold stone ice cream
+2024-03-29 04:57:21,690 - INFO - [Result] (FAIL) config_files/222.json
+2024-03-29 04:57:22,793 - INFO - [Config file]: config_files/223.json
+2024-03-29 04:57:22,793 - INFO - [Intent]: I am at CMU Pittsburgh, how long it takes to drive to the nearest Mcdonald's
+2024-03-29 04:57:51,071 - INFO - [Result] (FAIL) config_files/223.json
+2024-03-29 04:57:52,226 - INFO - [Config file]: config_files/224.json
+2024-03-29 04:57:52,227 - INFO - [Intent]: I am at CMU Pittsburgh, how long it takes to drive to the nearest wendys
+2024-03-29 04:58:19,508 - INFO - [Result] (FAIL) config_files/224.json
+2024-03-29 04:58:20,616 - INFO - [Config file]: config_files/225.json
+2024-03-29 04:58:20,616 - INFO - [Intent]: What do customers say about brush from sephora
+2024-03-29 05:01:09,957 - INFO - [Result] (FAIL) config_files/225.json
+2024-03-29 05:01:12,628 - INFO - [Config file]: config_files/226.json
+2024-03-29 05:01:12,628 - INFO - [Intent]: What is the price range for products from Amazon basic?
+2024-03-29 05:01:37,513 - INFO - [Result] (FAIL) config_files/226.json
+2024-03-29 05:01:37,965 - INFO - [Config file]: config_files/227.json
+2024-03-29 05:01:37,965 - INFO - [Intent]: What is the price range for products from EYZUTAK?
+2024-03-29 05:02:00,497 - INFO - [Result] (FAIL) config_files/227.json
+2024-03-29 05:02:00,873 - INFO - [Config file]: config_files/228.json
+2024-03-29 05:02:00,873 - INFO - [Intent]: What is the price range for products from sephora?
+2024-03-29 05:02:49,490 - INFO - [Result] (FAIL) config_files/228.json
+2024-03-29 05:02:50,561 - INFO - [Config file]: config_files/229.json
+2024-03-29 05:02:50,561 - INFO - [Intent]: What is the price range for products from ugreen?
+2024-03-29 05:03:21,834 - INFO - [Result] (FAIL) config_files/229.json
+2024-03-29 05:03:22,589 - INFO - [Config file]: config_files/230.json
+2024-03-29 05:03:22,589 - INFO - [Intent]: What is the price range for products from Perricone MD?
+2024-03-29 05:05:46,612 - INFO - [Result] (FAIL) config_files/230.json
+2024-03-29 05:05:48,940 - INFO - [Config file]: config_files/231.json
+2024-03-29 05:05:48,940 - INFO - [Intent]: Get the order number of my most recent cancelled order 
+2024-03-29 05:06:40,202 - INFO - [Result] (FAIL) config_files/231.json
+2024-03-29 05:06:41,036 - INFO - [Config file]: config_files/232.json
+2024-03-29 05:06:41,036 - INFO - [Intent]: Get the order number of my most recent pending order 
+2024-03-29 05:07:09,144 - INFO - [Result] (FAIL) config_files/232.json
+2024-03-29 05:07:09,686 - INFO - [Config file]: config_files/233.json
+2024-03-29 05:07:09,686 - INFO - [Intent]: Get the order number of my most recent complete order 
+2024-03-29 05:07:38,946 - INFO - [Result] (FAIL) config_files/233.json
+2024-03-29 05:07:39,508 - INFO - [Config file]: config_files/234.json
+2024-03-29 05:07:39,508 - INFO - [Intent]: Get the order number of my most recent on hold order 
+2024-03-29 05:08:06,718 - INFO - [Result] (FAIL) config_files/234.json
+2024-03-29 05:08:07,305 - INFO - [Config file]: config_files/235.json
+2024-03-29 05:08:07,305 - INFO - [Intent]: Get the order number of my most recent  order 
+2024-03-29 05:08:38,961 - INFO - [Result] (FAIL) config_files/235.json
+2024-03-29 05:08:39,483 - INFO - [Config file]: config_files/236.json
+2024-03-29 05:08:39,483 - INFO - [Intent]: Where is the nearest pharmacy from Carnegie Mellon I can walk within 20mins
+2024-03-29 05:09:05,253 - INFO - [Result] (FAIL) config_files/236.json
+2024-03-29 05:09:06,470 - INFO - [Config file]: config_files/237.json
+2024-03-29 05:09:06,471 - INFO - [Intent]: Where is the nearest gas station from CMU 
+2024-03-29 05:09:29,838 - INFO - [Result] (FAIL) config_files/237.json
+2024-03-29 05:09:31,227 - INFO - [Config file]: config_files/238.json
+2024-03-29 05:09:31,228 - INFO - [Intent]: I am doing a market survey for one stop market, show me the most expensive product from PS4 accessories category
+2024-03-29 05:12:45,354 - INFO - [Result] (FAIL) config_files/238.json
+2024-03-29 05:12:48,123 - INFO - [Config file]: config_files/239.json
+2024-03-29 05:12:48,123 - INFO - [Intent]: I am doing a market survey for one stop market, show me the most expensive product from nutrition bars and drinks category
+2024-03-29 05:14:32,999 - INFO - [Result] (FAIL) config_files/239.json
+2024-03-29 05:14:34,497 - INFO - [Config file]: config_files/240.json
+2024-03-29 05:14:34,498 - INFO - [Intent]: I am doing a market survey for one stop market, show me the most expensive product from competative swimwear category
+2024-03-29 05:17:14,685 - INFO - [Result] (FAIL) config_files/240.json
+2024-03-29 05:17:17,112 - INFO - [Config file]: config_files/241.json
+2024-03-29 05:17:17,112 - INFO - [Intent]: I am doing a market survey for one stop market, show me the most expensive product from skin care tool category
+2024-03-29 05:18:11,213 - INFO - [Result] (FAIL) config_files/241.json
+2024-03-29 05:18:12,027 - INFO - [Config file]: config_files/242.json
+2024-03-29 05:18:12,027 - INFO - [Intent]: I am doing a market survey for one stop market, show me the most expensive product from Household Supplies category
+2024-03-29 05:21:51,319 - INFO - [Result] (FAIL) config_files/242.json
+2024-03-29 05:21:54,131 - INFO - [Config file]: config_files/243.json
+2024-03-29 05:21:54,131 - INFO - [Intent]: Show me the email address of the customer who is the most unhappy with Circe fleece
+2024-03-29 05:22:03,243 - INFO - [Result] (FAIL) config_files/243.json
+2024-03-29 05:22:03,461 - INFO - [Config file]: config_files/244.json
+2024-03-29 05:22:03,461 - INFO - [Intent]: Show me the email address of the customer who is the most unhappy with Olivia zip jacket
+2024-03-29 05:23:08,188 - INFO - [Result] (FAIL) config_files/244.json
+2024-03-29 05:23:08,690 - INFO - [Config file]: config_files/245.json
+2024-03-29 05:23:08,691 - INFO - [Intent]: Show me the name of the customer who is the most unhappy with Antonia racer tank
+2024-03-29 05:24:18,943 - INFO - [Result] (FAIL) config_files/245.json
+2024-03-29 05:24:19,524 - INFO - [Config file]: config_files/246.json
+2024-03-29 05:24:19,524 - INFO - [Intent]: Show me the name of the customer who is the most unhappy with Chloe tank
+2024-03-29 05:25:26,145 - INFO - [Result] (FAIL) config_files/246.json
+2024-03-29 05:25:26,687 - INFO - [Config file]: config_files/247.json
+2024-03-29 05:25:26,687 - INFO - [Intent]: Show me the email address of the customer who is the most unhappy with the style of Zoe products
+2024-03-29 05:25:39,250 - INFO - [Result] (PASS) config_files/247.json
+2024-03-29 05:25:39,403 - INFO - [Config file]: config_files/248.json
+2024-03-29 05:25:39,404 - INFO - [Intent]: Tell me the coordinates of Carnegie Mellon Café in DD format
+2024-03-29 05:27:10,744 - INFO - [Result] (PASS) config_files/248.json
+2024-03-29 05:27:13,681 - INFO - [Config file]: config_files/249.json
+2024-03-29 05:27:13,681 - INFO - [Intent]: Tell me the coordinates of Western Pennsylvania Hospital Heliport in DD format
+2024-03-29 05:27:41,653 - INFO - [Result] (FAIL) config_files/249.json
+2024-03-29 05:27:42,912 - INFO - [Config file]: config_files/250.json
+2024-03-29 05:27:42,913 - INFO - [Intent]: Tell me the coordinates of Apple Store near Pitt in DD format
+2024-03-29 05:28:09,824 - INFO - [Result] (FAIL) config_files/250.json
+2024-03-29 05:28:11,020 - INFO - [Config file]: config_files/251.json
+2024-03-29 05:28:11,020 - INFO - [Intent]: Tell me the coordinates of bus stop on the Carnegie art museum side of the street near CMU in DD format
+2024-03-29 05:28:41,095 - INFO - [Result] (FAIL) config_files/251.json
+2024-03-29 05:28:42,302 - INFO - [Config file]: config_files/252.json
+2024-03-29 05:28:42,302 - INFO - [Intent]: Tell me the coordinates of Tokyo Japanese Food Store in Pittsburgh in DD format
+2024-03-29 05:28:59,034 - INFO - [Result] (FAIL) config_files/252.json
+2024-03-29 05:28:59,787 - INFO - [Config file]: config_files/253.json
+2024-03-29 05:28:59,787 - INFO - [Intent]: What is the phone number of Carnegie Mellon Café
+2024-03-29 05:29:56,005 - INFO - [Result] (FAIL) config_files/253.json
+2024-03-29 05:29:58,449 - INFO - [Config file]: config_files/254.json
+2024-03-29 05:29:58,449 - INFO - [Intent]: What is the phone number of Western Pennsylvania Hospital
+2024-03-29 05:31:48,786 - INFO - [Result] (FAIL) config_files/254.json
+2024-03-29 05:31:50,892 - INFO - [Config file]: config_files/255.json
+2024-03-29 05:31:50,893 - INFO - [Intent]: Who is the operator of PIT airport
+2024-03-29 05:32:30,016 - INFO - [Result] (FAIL) config_files/255.json
+2024-03-29 05:32:30,845 - INFO - [Config file]: config_files/256.json
+2024-03-29 05:32:30,845 - INFO - [Intent]: What is the website of Carnegie art museum in pittsburgh
+2024-03-29 05:33:02,078 - INFO - [Result] (FAIL) config_files/256.json
+2024-03-29 05:33:04,360 - INFO - [Config file]: config_files/257.json
+2024-03-29 05:33:04,360 - INFO - [Intent]: What is the hours of operation of Tokyo Japanese Food Store in Pittsburgh
+2024-03-29 05:34:01,742 - INFO - [Result] (FAIL) config_files/257.json
+2024-03-29 05:34:04,623 - INFO - [Config file]: config_files/258.json
+2024-03-29 05:34:04,625 - INFO - [Intent]: See all public projects
+2024-03-29 05:34:36,037 - INFO - [Result] (FAIL) config_files/258.json
+2024-03-29 05:34:36,441 - INFO - [Config file]: config_files/259.json
+2024-03-29 05:34:36,441 - INFO - [Intent]: Get me my RSS feed token
+2024-03-29 05:34:56,955 - INFO - [Result] (FAIL) config_files/259.json
+2024-03-29 05:34:57,217 - INFO - [Config file]: config_files/260.json
+2024-03-29 05:34:57,217 - INFO - [Intent]: I want to browse the products in the Video Game category
+2024-03-29 05:37:18,127 - INFO - [Result] (FAIL) config_files/260.json
+2024-03-29 05:37:20,316 - INFO - [Config file]: config_files/261.json
+2024-03-29 05:37:20,317 - INFO - [Intent]: I want to browse the products in the Headphones category
+2024-03-29 05:40:25,380 - INFO - [Result] (FAIL) config_files/261.json
+2024-03-29 05:40:27,894 - INFO - [Config file]: config_files/262.json
+2024-03-29 05:40:27,894 - INFO - [Intent]: I want to browse the products in the Men shoes category
+2024-03-29 05:43:58,803 - INFO - [Result] (FAIL) config_files/262.json
+2024-03-29 05:44:01,634 - INFO - [Config file]: config_files/263.json
+2024-03-29 05:44:01,634 - INFO - [Intent]: I want to browse the products in the Woman clothing category
+2024-03-29 05:47:24,877 - INFO - [Result] (FAIL) config_files/263.json
+2024-03-29 05:47:27,504 - INFO - [Config file]: config_files/264.json
+2024-03-29 05:47:27,504 - INFO - [Intent]: I want to browse the products in the Cabinets, Racks & Shelves category
+2024-03-29 05:50:49,629 - INFO - [Result] (FAIL) config_files/264.json
+2024-03-29 05:50:52,874 - INFO - [Config file]: config_files/265.json
+2024-03-29 05:50:52,874 - INFO - [Intent]: What's the closest national park to Boston? How far is it to drive there?
+2024-03-29 05:51:21,752 - INFO - [Result] (FAIL) config_files/265.json
+2024-03-29 05:51:23,580 - INFO - [Config file]: config_files/266.json
+2024-03-29 05:51:23,580 - INFO - [Intent]: What's the closest national park to the largest city in Maine?
+2024-03-29 05:51:46,939 - INFO - [Result] (FAIL) config_files/266.json
+2024-03-29 05:51:48,105 - INFO - [Config file]: config_files/267.json
+2024-03-29 05:51:48,105 - INFO - [Intent]: What's the closest national park to the hometown of Stephen King? How long it takes to drive there?
+2024-03-29 05:52:40,451 - INFO - [Result] (FAIL) config_files/267.json
+2024-03-29 05:52:42,109 - INFO - [Config file]: config_files/268.json
+2024-03-29 05:52:42,110 - INFO - [Intent]: What's the closest national park to Vinalhaven, ME? How long does it take to bike there?
+2024-03-29 05:53:04,559 - INFO - [Result] (FAIL) config_files/268.json
+2024-03-29 05:53:05,645 - INFO - [Config file]: config_files/269.json
+2024-03-29 05:53:05,645 - INFO - [Intent]: Show me products under $25 in "women shoes" category
+2024-03-29 05:56:26,885 - INFO - [Result] (FAIL) config_files/269.json
+2024-03-29 05:56:30,138 - INFO - [Config file]: config_files/270.json
+2024-03-29 05:56:30,138 - INFO - [Intent]: Show me products under $30 in "men shoes" category
+2024-03-29 05:58:03,384 - INFO - [Result] (FAIL) config_files/270.json
+2024-03-29 05:58:05,273 - INFO - [Config file]: config_files/271.json
+2024-03-29 05:58:05,273 - INFO - [Intent]: Show me products under $46.99 in "makeup remover" category
+2024-03-29 06:01:49,187 - INFO - [Result] (FAIL) config_files/271.json
+2024-03-29 06:01:53,490 - INFO - [Config file]: config_files/272.json
+2024-03-29 06:01:53,490 - INFO - [Intent]: Show me products under $78 in "children dental care" category
+2024-03-29 06:05:37,400 - INFO - [Result] (FAIL) config_files/272.json
+2024-03-29 06:05:41,006 - INFO - [Config file]: config_files/273.json
+2024-03-29 06:05:41,006 - INFO - [Intent]: Show me products under $199 in "furtiture with accent" category
+2024-03-29 06:09:13,298 - INFO - [Result] (FAIL) config_files/273.json
+2024-03-29 06:09:17,100 - INFO - [Config file]: config_files/274.json
+2024-03-29 06:09:17,100 - INFO - [Intent]: Search for "usb wifi"
+2024-03-29 06:09:47,398 - INFO - [Result] (PASS) config_files/274.json
+2024-03-29 06:09:47,937 - INFO - [Config file]: config_files/275.json
+2024-03-29 06:09:47,937 - INFO - [Intent]: Search for "xbox"
+2024-03-29 06:10:02,439 - INFO - [Result] (PASS) config_files/275.json
+2024-03-29 06:10:02,935 - INFO - [Config file]: config_files/276.json
+2024-03-29 06:10:02,935 - INFO - [Intent]: Search for "switch accessories"
+2024-03-29 06:10:36,435 - INFO - [Result] (PASS) config_files/276.json
+2024-03-29 06:10:37,036 - INFO - [Config file]: config_files/277.json
+2024-03-29 06:10:37,036 - INFO - [Intent]: Search for "batteries for iphone 13"
+2024-03-29 06:11:20,767 - INFO - [Result] (FAIL) config_files/277.json
+2024-03-29 06:11:21,452 - INFO - [Config file]: config_files/278.json
+2024-03-29 06:11:21,452 - INFO - [Intent]: Search for "green tea bag for weight loss"
+2024-03-29 06:11:51,986 - INFO - [Result] (PASS) config_files/278.json
+2024-03-29 06:11:52,519 - INFO - [Config file]: config_files/279.json
+2024-03-29 06:11:52,519 - INFO - [Intent]: Provide me with the complete names of Bluetooth headphones from Sony, and also share the price range for the available models
+2024-03-29 06:12:18,896 - INFO - [Result] (FAIL) config_files/279.json
+2024-03-29 06:12:19,370 - INFO - [Config file]: config_files/280.json
+2024-03-29 06:12:19,370 - INFO - [Intent]: Provide me with the full names of chargers from Anker, and also share the price range for the available models
+2024-03-29 06:13:14,287 - INFO - [Result] (FAIL) config_files/280.json
+2024-03-29 06:13:15,150 - INFO - [Config file]: config_files/281.json
+2024-03-29 06:13:15,151 - INFO - [Intent]: Please provide me with the complete product names of Oral B brush heads designed for children, along with their corresponding price range per brush
+2024-03-29 06:14:08,301 - INFO - [Result] (FAIL) config_files/281.json
+2024-03-29 06:14:09,300 - INFO - [Config file]: config_files/282.json
+2024-03-29 06:14:09,301 - INFO - [Intent]: List the full product names of slide slippers from Nike and tell me the price range of the available products
+2024-03-29 06:17:41,777 - INFO - [Result] (FAIL) config_files/282.json
+2024-03-29 06:17:44,925 - INFO - [Config file]: config_files/283.json
+2024-03-29 06:17:44,925 - INFO - [Intent]: Look up the most recent models of XBox controllers released between 2020-2021?
+2024-03-29 06:18:13,088 - INFO - [Result] (FAIL) config_files/283.json
+2024-03-29 06:18:13,459 - INFO - [Config file]: config_files/284.json
+2024-03-29 06:18:13,460 - INFO - [Intent]: Show the least expensive shoe storage with a minimum storage capacity of 12 pairs.
+2024-03-29 06:18:34,414 - INFO - [Result] (FAIL) config_files/284.json
+2024-03-29 06:18:34,823 - INFO - [Config file]: config_files/285.json
+2024-03-29 06:18:34,823 - INFO - [Intent]: Show the least expensive switch card holder with a minimum storage capacity of 15 cards.
+2024-03-29 06:20:07,268 - INFO - [Result] (FAIL) config_files/285.json
+2024-03-29 06:20:09,089 - INFO - [Config file]: config_files/286.json
+2024-03-29 06:20:09,090 - INFO - [Intent]: Show the least expensive ssd hard drive with a minimum storage capacity of 1TB.
+2024-03-29 06:20:43,457 - INFO - [Result] (FAIL) config_files/286.json
+2024-03-29 06:20:43,921 - INFO - [Config file]: config_files/287.json
+2024-03-29 06:20:43,921 - INFO - [Intent]: How much time does it take from Pittsburgh to Philadelphia by car?
+2024-03-29 06:21:47,290 - INFO - [Result] (FAIL) config_files/287.json
+2024-03-29 06:21:52,682 - INFO - [Config file]: config_files/288.json
+2024-03-29 06:21:52,683 - INFO - [Intent]: Tell me the name of the customer who has the most cancellations in the history
+2024-03-29 06:22:20,056 - INFO - [Result] (FAIL) config_files/288.json
+2024-03-29 06:22:20,341 - INFO - [Config file]: config_files/289.json
+2024-03-29 06:22:20,341 - INFO - [Intent]: Tell me the email address, name, phone number of the customer who has the most cancellations in the history
+2024-03-29 06:23:16,419 - INFO - [Result] (FAIL) config_files/289.json
+2024-03-29 06:23:17,017 - INFO - [Config file]: config_files/290.json
+2024-03-29 06:23:17,018 - INFO - [Intent]: Tell me the product SKUs in the most recent cancelled orders of the customer who has the most cancellations in the history
+2024-03-29 06:24:14,187 - INFO - [Result] (FAIL) config_files/290.json
+2024-03-29 06:24:14,755 - INFO - [Config file]: config_files/291.json
+2024-03-29 06:24:14,755 - INFO - [Intent]: Tell me the total spend on products in the most recent cancelled orders of the customer who has the most cancellations in the history
+2024-03-29 06:24:45,869 - INFO - [Result] (FAIL) config_files/291.json
+2024-03-29 06:24:46,147 - INFO - [Config file]: config_files/292.json
+2024-03-29 06:24:46,147 - INFO - [Intent]: Tell me the total number of cancellations of the customer who has the most cancellations in the history
+2024-03-29 06:25:45,112 - INFO - [Result] (FAIL) config_files/292.json
+2024-03-29 06:25:45,563 - INFO - [Config file]: config_files/293.json
+2024-03-29 06:25:45,563 - INFO - [Intent]: Show me the command to clone Super_Awesome_Robot with SSH.
+2024-03-29 06:26:09,964 - INFO - [Result] (FAIL) config_files/293.json
+2024-03-29 06:26:10,262 - INFO - [Config file]: config_files/294.json
+2024-03-29 06:26:10,263 - INFO - [Intent]: Show me the command to clone ChatGPT with SSH.
+2024-03-29 06:29:00,791 - INFO - [Result] (FAIL) config_files/294.json
+2024-03-29 06:29:04,881 - INFO - [Config file]: config_files/295.json
+2024-03-29 06:29:04,881 - INFO - [Intent]: Show me the command to clone metaseq with SSH.
+2024-03-29 06:30:13,996 - INFO - [Result] (FAIL) config_files/295.json
+2024-03-29 06:30:15,407 - INFO - [Config file]: config_files/296.json
+2024-03-29 06:30:15,407 - INFO - [Intent]: Show me the command to clone the best GAN python implementation with SSH.
+2024-03-29 06:32:37,915 - INFO - [Result] (FAIL) config_files/296.json
+2024-03-29 06:32:40,042 - INFO - [Config file]: config_files/297.json
+2024-03-29 06:32:40,043 - INFO - [Intent]: Show me the command to clone the most stared Covid location tracker with SSH.
+2024-03-29 06:34:27,355 - INFO - [Result] (FAIL) config_files/297.json
+2024-03-29 06:34:29,032 - INFO - [Config file]: config_files/298.json
+2024-03-29 06:34:29,033 - INFO - [Intent]: Show the most recent completed order
+2024-03-29 06:36:04,021 - INFO - [Result] (FAIL) config_files/298.json
+2024-03-29 06:36:05,966 - INFO - [Config file]: config_files/299.json
+2024-03-29 06:36:05,968 - INFO - [Intent]: Show the most recent cancelled order
+2024-03-29 06:36:41,206 - INFO - [Result] (PASS) config_files/299.json
+2024-03-29 06:36:41,853 - INFO - [Config file]: config_files/300.json
+2024-03-29 06:36:41,853 - INFO - [Intent]: Show the most recent pending order
+2024-03-29 06:36:53,260 - INFO - [Result] (FAIL) config_files/300.json
+2024-03-29 06:36:53,544 - INFO - [Config file]: config_files/301.json
+2024-03-29 06:36:53,544 - INFO - [Intent]: Show the most recent processing order
+2024-03-29 06:37:19,072 - INFO - [Result] (FAIL) config_files/301.json
+2024-03-29 06:37:19,656 - INFO - [Config file]: config_files/302.json
+2024-03-29 06:37:19,656 - INFO - [Intent]: Show the most recent out of delivery order
+2024-03-29 06:39:18,731 - INFO - [Result] (FAIL) config_files/302.json
+2024-03-29 06:39:20,048 - INFO - [Config file]: config_files/303.json
+2024-03-29 06:39:20,048 - INFO - [Intent]: How many commits did Kilian make durning 2023?
+2024-03-29 06:40:28,536 - INFO - [Result] (FAIL) config_files/303.json
+2024-03-29 06:40:29,866 - INFO - [Config file]: config_files/304.json
+2024-03-29 06:40:29,866 - INFO - [Intent]: How many commits did Eric make between Feb 2023 and May 2023?
+2024-03-29 06:45:45,909 - INFO - [Result] (FAIL) config_files/304.json
+2024-03-29 06:45:50,574 - INFO - [Config file]: config_files/305.json
+2024-03-29 06:45:50,574 - INFO - [Intent]: How many commits did Philip make in 2023/1?
+2024-03-29 06:46:19,332 - INFO - [Result] (FAIL) config_files/305.json
+2024-03-29 06:46:19,990 - INFO - [Config file]: config_files/306.json
+2024-03-29 06:46:19,990 - INFO - [Intent]: How many commits did Anthony make between 08/2022-09/2022?
+2024-03-29 06:47:13,054 - INFO - [Unhandled Error] TimeoutError('Timeout 500ms exceeded.')]
+2024-03-29 06:47:13,068 - INFO - [Config file]: config_files/307.json
+2024-03-29 06:47:13,068 - INFO - [Intent]: How many commits did Nic make in April 2021?
+2024-03-29 06:47:25,448 - INFO - [Result] (FAIL) config_files/307.json
+2024-03-29 06:47:25,877 - INFO - [Config file]: config_files/308.json
+2024-03-29 06:47:25,877 - INFO - [Intent]: Tell me who has made the most contributions, in terms of number of commits, to the primer/design project
+2024-03-29 06:47:53,393 - INFO - [Unhandled Error] TimeoutError('Timeout 500ms exceeded.')]
+2024-03-29 06:47:53,411 - INFO - [Config file]: config_files/309.json
+2024-03-29 06:47:53,411 - INFO - [Intent]: Tell me who has made the most contributions, in terms of number of commits, to the thoughtbot/administrate project
+2024-03-29 06:49:30,165 - INFO - [Result] (FAIL) config_files/309.json
+2024-03-29 06:49:30,497 - INFO - [Config file]: config_files/310.json
+2024-03-29 06:49:30,498 - INFO - [Intent]: Tell me who has made the most contributions, in terms of number of commits, to the AndroidSlidingUpPanel project
+2024-03-29 06:50:31,005 - INFO - [Result] (FAIL) config_files/310.json
+2024-03-29 06:50:32,884 - INFO - [Config file]: config_files/311.json
+2024-03-29 06:50:32,884 - INFO - [Intent]: Tell me who has made the most contributions, in terms of number of commits, to the Pytorch GAN project
+2024-03-29 06:51:46,697 - INFO - [Result] (FAIL) config_files/311.json
+2024-03-29 06:51:47,285 - INFO - [Config file]: config_files/312.json
+2024-03-29 06:51:47,285 - INFO - [Intent]: Tell me who has made the most contributions, in terms of number of commits, to the csvkit project
+2024-03-29 06:52:08,825 - INFO - [Unhandled Error] TimeoutError('Timeout 500ms exceeded.')]
+2024-03-29 06:52:08,834 - INFO - [Config file]: config_files/313.json
+2024-03-29 06:52:08,834 - INFO - [Intent]: Which number to call for the customer service?
+2024-03-29 06:52:56,357 - INFO - [Result] (FAIL) config_files/313.json
+2024-03-29 06:52:56,914 - INFO - [Config file]: config_files/314.json
+2024-03-29 06:52:56,914 - INFO - [Intent]: List the name of the top 3 contributors to prime/design repo, ranked by the number of commits?
+2024-03-29 06:53:48,413 - INFO - [Result] (FAIL) config_files/314.json
+2024-03-29 06:53:49,965 - INFO - [Config file]: config_files/315.json
+2024-03-29 06:53:49,965 - INFO - [Intent]: List the email address of the top 3 contributors to Pytorch GAN repo, ranked by the number of commits?
+2024-03-29 06:54:05,596 - INFO - [Result] (FAIL) config_files/315.json
+2024-03-29 06:54:05,983 - INFO - [Config file]: config_files/316.json
+2024-03-29 06:54:05,983 - INFO - [Intent]: List the name of the top 3 contributors to facebook's guide on building react apps repo, ranked by the number of commits?
+2024-03-29 06:55:49,528 - INFO - [Result] (FAIL) config_files/316.json
+2024-03-29 06:55:50,911 - INFO - [Config file]: config_files/317.json
+2024-03-29 06:55:50,911 - INFO - [Intent]: List the name and number of commits of the top 3 contributors to metaseq repo, ranked by the number of commits?
+2024-03-29 06:58:24,323 - INFO - [Result] (FAIL) config_files/317.json
+2024-03-29 06:58:27,491 - INFO - [Config file]: config_files/318.json
+2024-03-29 06:58:27,491 - INFO - [Intent]: List the last names of the top 3 contributors to 2019-nCov repo, ranked by the number of commits?
+2024-03-29 06:59:00,078 - INFO - [Result] (FAIL) config_files/318.json
+2024-03-29 06:59:00,789 - INFO - [Config file]: config_files/319.json
+2024-03-29 06:59:00,789 - INFO - [Intent]: How much refund I should expect from my order canlled in April 2022, including shipping fee
+2024-03-29 06:59:40,834 - INFO - [Result] (FAIL) config_files/319.json
+2024-03-29 06:59:41,469 - INFO - [Config file]: config_files/320.json
+2024-03-29 06:59:41,469 - INFO - [Intent]: How much refund I should expect from my order canlled in Feb 2023, including shipping fee
+2024-03-29 07:00:52,605 - INFO - [Result] (FAIL) config_files/320.json
+2024-03-29 07:00:53,587 - INFO - [Config file]: config_files/321.json
+2024-03-29 07:00:53,587 - INFO - [Intent]: How much refund I should expect from my order canlled in 2022, including shipping fee
+2024-03-29 07:02:26,168 - INFO - [Result] (FAIL) config_files/321.json
+2024-03-29 07:02:26,929 - INFO - [Config file]: config_files/322.json
+2024-03-29 07:02:26,929 - INFO - [Intent]: How much refund I should expect from my order canlled in May 2023 if I cannot get the shipping fee refunded?
+2024-03-29 07:02:55,708 - INFO - [Result] (FAIL) config_files/322.json
+2024-03-29 07:02:56,146 - INFO - [Config file]: config_files/323.json
+2024-03-29 07:02:56,146 - INFO - [Intent]: How much refund I should expect from my order canlled in 2022/03? I only kept the AC-DC Adapter and the shop told me that I cannot get the shipping fee back
+2024-03-29 07:04:14,925 - INFO - [Result] (FAIL) config_files/323.json
+2024-03-29 07:04:15,704 - INFO - [Config file]: config_files/324.json
+2024-03-29 07:04:15,705 - INFO - [Intent]: Show me the "chairs" listings by ascending price.
+2024-03-29 07:07:41,601 - INFO - [Result] (FAIL) config_files/324.json
+2024-03-29 07:07:44,383 - INFO - [Config file]: config_files/325.json
+2024-03-29 07:07:44,383 - INFO - [Intent]: Show me the "mouth night guard" listings by descending price.
+2024-03-29 07:08:55,084 - INFO - [Result] (FAIL) config_files/325.json
+2024-03-29 07:08:55,941 - INFO - [Config file]: config_files/326.json
+2024-03-29 07:08:55,941 - INFO - [Intent]: Show me the "Canon photo printer" listings by search relevance, from most to least.
+2024-03-29 07:09:36,710 - INFO - [Result] (FAIL) config_files/326.json
+2024-03-29 07:09:37,172 - INFO - [Config file]: config_files/327.json
+2024-03-29 07:09:37,173 - INFO - [Intent]: Show me the "iphone 12 phone case" listings by name alphabetically.
+2024-03-29 07:11:23,788 - INFO - [Result] (FAIL) config_files/327.json
+2024-03-29 07:11:24,818 - INFO - [Config file]: config_files/328.json
+2024-03-29 07:11:24,819 - INFO - [Intent]: Show me the "iphone 12 phone case" listings by price.
+2024-03-29 07:11:48,722 - INFO - [Result] (FAIL) config_files/328.json
+2024-03-29 07:11:48,998 - INFO - [Config file]: config_files/329.json
+2024-03-29 07:11:48,998 - INFO - [Intent]: How much I spend on 4/19/2023 on shopping at One Stop Market?
+2024-03-29 07:13:05,779 - INFO - [Result] (PASS) config_files/329.json
+2024-03-29 07:13:06,843 - INFO - [Config file]: config_files/330.json
+2024-03-29 07:13:06,843 - INFO - [Intent]: How much I spend in March 2023 on shopping at One Stop Market?
+2024-03-29 07:13:38,851 - INFO - [Result] (FAIL) config_files/330.json
+2024-03-29 07:13:39,372 - INFO - [Config file]: config_files/331.json
+2024-03-29 07:13:39,372 - INFO - [Intent]: How much I spend in July 2022 on shopping at One Stop Market?
+2024-03-29 07:14:33,050 - INFO - [Result] (FAIL) config_files/331.json
+2024-03-29 07:14:33,793 - INFO - [Config file]: config_files/332.json
+2024-03-29 07:14:33,793 - INFO - [Intent]: How much I spend each month from Jan to the end of March 2023 on shopping at One Stop Market?
+2024-03-29 07:16:31,844 - INFO - [Result] (FAIL) config_files/332.json
+2024-03-29 07:16:33,565 - INFO - [Config file]: config_files/333.json
+2024-03-29 07:16:33,566 - INFO - [Intent]: How much did I spend on shopping at One Stop Market on November 2022? They gave me a 20% discount on the total amount for orders exceeding $200 in cash
+2024-03-29 07:16:42,205 - INFO - [Result] (FAIL) config_files/333.json
+2024-03-29 07:16:42,452 - INFO - [Config file]: config_files/334.json
+2024-03-29 07:16:42,452 - INFO - [Intent]: Tell me when I last ordered my muffin cornbread mix?
+2024-03-29 07:17:15,889 - INFO - [Result] (FAIL) config_files/334.json
+2024-03-29 07:17:16,442 - INFO - [Config file]: config_files/335.json
+2024-03-29 07:17:16,442 - INFO - [Intent]: Tell me when I last ordered my body butter?
+2024-03-29 07:17:42,313 - INFO - [Result] (FAIL) config_files/335.json
+2024-03-29 07:17:42,569 - INFO - [Config file]: config_files/336.json
+2024-03-29 07:17:42,569 - INFO - [Intent]: Tell me when I last ordered my conditioner?
+2024-03-29 07:18:56,181 - INFO - [Result] (FAIL) config_files/336.json
+2024-03-29 07:18:56,929 - INFO - [Config file]: config_files/337.json
+2024-03-29 07:18:56,929 - INFO - [Intent]: Tell me when I last ordered my bread olive?
+2024-03-29 07:19:29,773 - INFO - [Result] (FAIL) config_files/337.json
+2024-03-29 07:19:30,255 - INFO - [Config file]: config_files/338.json
+2024-03-29 07:19:30,255 - INFO - [Intent]: Tell me when I last ordered my toothpaste?
+2024-03-29 07:20:06,862 - INFO - [Result] (FAIL) config_files/338.json
+2024-03-29 07:20:07,346 - INFO - [Config file]: config_files/339.json
+2024-03-29 07:20:07,347 - INFO - [Intent]: List all opened issues that report bugs
+2024-03-29 07:21:56,434 - INFO - [Result] (FAIL) config_files/339.json
+2024-03-29 07:21:57,974 - INFO - [Config file]: config_files/340.json
+2024-03-29 07:21:57,974 - INFO - [Intent]: List all opened issues that report bugs
+2024-03-29 07:23:09,785 - INFO - [Result] (FAIL) config_files/340.json
+2024-03-29 07:23:11,050 - INFO - [Config file]: config_files/341.json
+2024-03-29 07:23:11,051 - INFO - [Intent]: List all opened issues requesting new features
+2024-03-29 07:23:57,469 - INFO - [Result] (FAIL) config_files/341.json
+2024-03-29 07:23:58,594 - INFO - [Config file]: config_files/342.json
+2024-03-29 07:23:58,594 - INFO - [Intent]: List all opened issues that ask about OPT model related questions
+2024-03-29 07:26:48,340 - INFO - [Result] (FAIL) config_files/342.json
+2024-03-29 07:26:50,695 - INFO - [Config file]: config_files/343.json
+2024-03-29 07:26:50,695 - INFO - [Intent]: List all opened issues that don't have any labels
+2024-03-29 07:28:12,850 - INFO - [Result] (FAIL) config_files/343.json
+2024-03-29 07:28:13,703 - INFO - [Config file]: config_files/344.json
+2024-03-29 07:28:13,703 - INFO - [Intent]: How many reviews our shop received by far?
+2024-03-29 07:29:14,246 - INFO - [Result] (FAIL) config_files/344.json
+2024-03-29 07:29:14,398 - INFO - [Config file]: config_files/345.json
+2024-03-29 07:29:14,398 - INFO - [Intent]: How many reviews our shop received in Apr 2023?
+2024-03-29 07:31:39,984 - INFO - [Result] (FAIL) config_files/345.json
+2024-03-29 07:31:41,193 - INFO - [Config file]: config_files/346.json
+2024-03-29 07:31:41,193 - INFO - [Intent]: How many reviews our shop received during 2022?
+2024-03-29 07:32:11,522 - INFO - [Result] (FAIL) config_files/346.json
+2024-03-29 07:32:11,804 - INFO - [Config file]: config_files/347.json
+2024-03-29 07:32:11,804 - INFO - [Intent]: How many reviews our shop received from the beginning of the shop?
+2024-03-29 07:33:07,871 - INFO - [Result] (FAIL) config_files/347.json
+2024-03-29 07:33:08,452 - INFO - [Config file]: config_files/348.json
+2024-03-29 07:33:08,452 - INFO - [Intent]: How many reviews our shop received in May 2023?
+2024-03-29 07:33:29,620 - INFO - [Result] (FAIL) config_files/348.json
+2024-03-29 07:33:29,837 - INFO - [Config file]: config_files/349.json
+2024-03-29 07:33:29,837 - INFO - [Intent]: Who else have access to my repo gimmiethat.space, show me their usernames
+2024-03-29 07:34:13,844 - INFO - [Result] (FAIL) config_files/349.json
+2024-03-29 07:34:14,325 - INFO - [Config file]: config_files/350.json
+2024-03-29 07:34:14,325 - INFO - [Intent]: Who else have access to my repo prism-theme, show me their usernames
+2024-03-29 07:34:52,451 - INFO - [Result] (PASS) config_files/350.json
+2024-03-29 07:34:53,254 - INFO - [Config file]: config_files/351.json
+2024-03-29 07:34:53,254 - INFO - [Intent]: List products from PS4 accessories category by ascending price
+2024-03-29 07:38:19,235 - INFO - [Result] (FAIL) config_files/351.json
+2024-03-29 07:38:22,590 - INFO - [Config file]: config_files/352.json
+2024-03-29 07:38:22,590 - INFO - [Intent]: List products from nutrition bars and drinks category by ascending price
+2024-03-29 07:41:53,606 - INFO - [Result] (FAIL) config_files/352.json
+2024-03-29 07:41:56,749 - INFO - [Config file]: config_files/353.json
+2024-03-29 07:41:56,749 - INFO - [Intent]: List products from competative swimwear category by ascending price
+2024-03-29 07:43:51,150 - INFO - [Result] (FAIL) config_files/353.json
+2024-03-29 07:43:52,692 - INFO - [Config file]: config_files/354.json
+2024-03-29 07:43:52,692 - INFO - [Intent]: List products from living room furtniture category by descending price
+2024-03-29 07:47:17,041 - INFO - [Result] (FAIL) config_files/354.json
+2024-03-29 07:47:19,583 - INFO - [Config file]: config_files/355.json
+2024-03-29 07:47:19,583 - INFO - [Intent]: List products from kids' bedding category by descending price
+2024-03-29 07:50:58,284 - INFO - [Result] (FAIL) config_files/355.json
+2024-03-29 07:51:02,509 - INFO - [Config file]: config_files/356.json
+2024-03-29 07:51:02,509 - INFO - [Intent]: Show the route from SCS CMU in Pittsburgh to the location where the Declaration of Independence and Constitution were signed
+2024-03-29 07:51:32,715 - INFO - [Result] (FAIL) config_files/356.json
+2024-03-29 07:51:34,083 - INFO - [Config file]: config_files/357.json
+2024-03-29 07:51:34,083 - INFO - [Intent]: Checkout merge requests requiring my review
+2024-03-29 07:53:42,167 - INFO - [Result] (FAIL) config_files/357.json
+2024-03-29 07:53:44,037 - INFO - [Config file]: config_files/358.json
+2024-03-29 07:53:44,037 - INFO - [Intent]: Show me the shipping method for order number 187.
+2024-03-29 07:54:19,944 - INFO - [Result] (FAIL) config_files/358.json
+2024-03-29 07:54:20,673 - INFO - [Config file]: config_files/359.json
+2024-03-29 07:54:20,673 - INFO - [Intent]: Show me the order date for order number 148.
+2024-03-29 07:55:05,665 - INFO - [Result] (FAIL) config_files/359.json
+2024-03-29 07:55:06,237 - INFO - [Config file]: config_files/360.json
+2024-03-29 07:55:06,237 - INFO - [Intent]: Show me the product names for order number 148.
+2024-03-29 07:55:17,121 - INFO - [Result] (FAIL) config_files/360.json
+2024-03-29 07:55:17,422 - INFO - [Config file]: config_files/361.json
+2024-03-29 07:55:17,423 - INFO - [Intent]: Show me the order statuses for order number 170 and 189.
+2024-03-29 07:55:37,513 - INFO - [Result] (PASS) config_files/361.json
+2024-03-29 07:55:37,954 - INFO - [Config file]: config_files/362.json
+2024-03-29 07:55:37,954 - INFO - [Intent]: Show me the billing address for order number 00178.
+2024-03-29 07:56:56,150 - INFO - [Result] (PASS) config_files/362.json
+2024-03-29 07:56:57,620 - INFO - [Config file]: config_files/363.json
+2024-03-29 07:56:57,620 - INFO - [Intent]: Measure distance between Carnegie Mellon University and Carnegie Music Hall by walking
+2024-03-29 07:57:43,901 - INFO - [Result] (PASS) config_files/363.json
+2024-03-29 07:57:46,289 - INFO - [Config file]: config_files/364.json
+2024-03-29 07:57:46,289 - INFO - [Intent]: Measure distance between Carnegie Mellon University and UPMC Shadyside by walking
+2024-03-29 07:58:11,324 - INFO - [Result] (FAIL) config_files/364.json
+2024-03-29 07:58:12,795 - INFO - [Config file]: config_files/365.json
+2024-03-29 07:58:12,796 - INFO - [Intent]: Measure distance between Carnegie Music Hall and UPMC Shadyside by walking
+2024-03-29 07:58:37,606 - INFO - [Result] (FAIL) config_files/365.json
+2024-03-29 07:58:38,563 - INFO - [Config file]: config_files/366.json
+2024-03-29 07:58:38,563 - INFO - [Intent]: Measure distance between CVS (closet one) and UPMC Shadyside by walking
+2024-03-29 07:59:09,041 - INFO - [Result] (FAIL) config_files/366.json
+2024-03-29 07:59:10,080 - INFO - [Config file]: config_files/367.json
+2024-03-29 07:59:10,080 - INFO - [Intent]: Measure distance between Carnegie Mellon University and CVS (closet one) by walking
+2024-03-29 08:00:12,096 - INFO - [Result] (FAIL) config_files/367.json
+2024-03-29 08:00:15,751 - INFO - [Config file]: config_files/368.json
+2024-03-29 08:00:15,752 - INFO - [Intent]: find discounted items.
+2024-03-29 08:03:49,802 - INFO - [Result] (PASS) config_files/368.json
+2024-03-29 08:03:53,111 - INFO - [Config file]: config_files/369.json
+2024-03-29 08:03:53,111 - INFO - [Intent]: Pull up the description page of Carnegie Music Hall on Map
+2024-03-29 08:04:27,520 - INFO - [Result] (PASS) config_files/369.json
+2024-03-29 08:04:28,956 - INFO - [Config file]: config_files/370.json
+2024-03-29 08:04:28,956 - INFO - [Intent]: Pull up the description page of Carnegie Mellon University on Map
+2024-03-29 08:04:57,338 - INFO - [Result] (FAIL) config_files/370.json
+2024-03-29 08:04:59,546 - INFO - [Config file]: config_files/371.json
+2024-03-29 08:04:59,546 - INFO - [Intent]: Pull up the description page of Piada restaurant near Pitt on Map
+2024-03-29 08:05:33,010 - INFO - [Result] (FAIL) config_files/371.json
+2024-03-29 08:05:34,862 - INFO - [Config file]: config_files/372.json
+2024-03-29 08:05:34,862 - INFO - [Intent]: Pull up the description page of the Costco in Pittsburhg near a river on Map
+2024-03-29 08:06:16,090 - INFO - [Result] (FAIL) config_files/372.json
+2024-03-29 08:06:17,753 - INFO - [Config file]: config_files/373.json
+2024-03-29 08:06:17,753 - INFO - [Intent]: Pull up the description page of Whole Foods near Carnegie Mellon on Map
+2024-03-29 08:07:21,347 - INFO - [Result] (FAIL) config_files/373.json
+2024-03-29 08:07:23,986 - INFO - [Config file]: config_files/374.json
+2024-03-29 08:07:23,987 - INFO - [Intent]: Preview the Magento Blank theme for my shop
+2024-03-29 08:08:00,188 - INFO - [Result] (FAIL) config_files/374.json
+2024-03-29 08:08:00,700 - INFO - [Config file]: config_files/375.json
+2024-03-29 08:08:00,700 - INFO - [Intent]: Preview the Magento Luma theme for my shop
+2024-03-29 08:08:30,479 - INFO - [Result] (FAIL) config_files/375.json
+2024-03-29 08:08:30,708 - INFO - [Config file]: config_files/376.json
+2024-03-29 08:08:30,708 - INFO - [Intent]: Summarize customer reviews for Amazon Echo Dot 3rd generation.
+2024-03-29 08:09:38,706 - INFO - [Result] (FAIL) config_files/376.json
+2024-03-29 08:09:40,967 - INFO - [Config file]: config_files/377.json
+2024-03-29 08:09:40,967 - INFO - [Intent]: Find the resturants around CMU ArtPark Lab
+2024-03-29 08:10:14,656 - INFO - [Result] (FAIL) config_files/377.json
+2024-03-29 08:10:15,828 - INFO - [Config file]: config_files/378.json
+2024-03-29 08:10:15,829 - INFO - [Intent]: Find the parking around CMU main campus
+2024-03-29 08:10:42,910 - INFO - [Result] (FAIL) config_files/378.json
+2024-03-29 08:10:43,892 - INFO - [Config file]: config_files/379.json
+2024-03-29 08:10:43,893 - INFO - [Intent]: Find the hotel around CMU main campus
+2024-03-29 08:11:15,597 - INFO - [Result] (FAIL) config_files/379.json
+2024-03-29 08:11:16,836 - INFO - [Config file]: config_files/380.json
+2024-03-29 08:11:16,836 - INFO - [Intent]: Find the bar around Carnegie Music Hall
+2024-03-29 08:11:51,749 - INFO - [Result] (FAIL) config_files/380.json
+2024-03-29 08:11:52,706 - INFO - [Config file]: config_files/381.json
+2024-03-29 08:11:52,706 - INFO - [Intent]: Find the hotel around Carnegie Music Hall
+2024-03-29 08:12:17,979 - INFO - [Result] (FAIL) config_files/381.json
+2024-03-29 08:12:19,060 - INFO - [Config file]: config_files/382.json
+2024-03-29 08:12:19,061 - INFO - [Intent]: I am arriving at Carnegie Mellon University. Find the nearby US Citizenship and Immigration Services and the walking distance to the nearest Social Security Administration from US Citizenship and Immigration Services
+2024-03-29 08:12:45,838 - INFO - [Result] (FAIL) config_files/382.json
+2024-03-29 08:12:46,964 - INFO - [Config file]: config_files/383.json
+2024-03-29 08:12:46,964 - INFO - [Intent]: I am arriving at Pittsburgh Airport. Show me the name of a Hyatt hotel if there is any nearby. Tell me the names of supermarkets that are within 15mins driving from the hotel
+2024-03-29 08:13:20,073 - INFO - [Result] (FAIL) config_files/383.json
+2024-03-29 08:13:21,507 - INFO - [Config file]: config_files/384.json
+2024-03-29 08:13:21,507 - INFO - [Intent]: List the customer names who complain about the quality of EYZUTAK phone cases
+2024-03-29 08:14:29,805 - INFO - [Result] (FAIL) config_files/384.json
+2024-03-29 08:14:30,917 - INFO - [Config file]: config_files/385.json
+2024-03-29 08:14:30,918 - INFO - [Intent]: List the customer names who thinks EYZUTAK phone cases are of good looking
+2024-03-29 08:15:32,503 - INFO - [Result] (FAIL) config_files/385.json
+2024-03-29 08:15:33,222 - INFO - [Config file]: config_files/386.json
+2024-03-29 08:15:33,222 - INFO - [Intent]: What is the rating of Ugreen lightning to 3.5mm cable
+2024-03-29 08:16:13,472 - INFO - [Result] (FAIL) config_files/386.json
+2024-03-29 08:16:13,920 - INFO - [Config file]: config_files/387.json
+2024-03-29 08:16:13,920 - INFO - [Intent]: Who gave 4 or 5 stars for phone cases from EYZUTAK
+2024-03-29 08:16:44,845 - INFO - [Result] (FAIL) config_files/387.json
+2024-03-29 08:16:45,410 - INFO - [Config file]: config_files/388.json
+2024-03-29 08:16:45,410 - INFO - [Intent]: Who gave 1 or 2 stars for phone cases from EYZUTAK
+2024-03-29 08:19:05,742 - INFO - [Result] (FAIL) config_files/388.json
+2024-03-29 08:19:06,775 - INFO - [Config file]: config_files/389.json
+2024-03-29 08:19:06,775 - INFO - [Intent]: Post "Thanks, working on reviews" for the merge request related to octovisuals page in primer/design project
+2024-03-29 08:20:50,855 - INFO - [Result] (FAIL) config_files/389.json
+2024-03-29 08:20:53,491 - INFO - [Config file]: config_files/390.json
+2024-03-29 08:20:53,491 - INFO - [Intent]: Post "lgtm" for the merge request related to semantic HTML post in a11yproject/a11yproject.com project
+2024-03-29 08:23:32,406 - INFO - [Result] (PASS) config_files/390.json
+2024-03-29 08:23:35,954 - INFO - [Config file]: config_files/391.json
+2024-03-29 08:23:35,955 - INFO - [Intent]: Post "close because non reproducible" for the merge request related to focus edge cases in a11yproject/a11yproject.com project
+2024-03-29 08:25:01,915 - INFO - [Result] (FAIL) config_files/391.json
+2024-03-29 08:25:05,706 - INFO - [Config file]: config_files/392.json
+2024-03-29 08:25:05,706 - INFO - [Intent]: Post "Good idea" for the merge request related to color ulitity in a11yproject.com project
+2024-03-29 08:25:59,817 - INFO - [Result] (FAIL) config_files/392.json
+2024-03-29 08:26:01,206 - INFO - [Config file]: config_files/393.json
+2024-03-29 08:26:01,206 - INFO - [Intent]: Post "lgtm" for the merge request related to fixing the broken links in byteblaze/empathy-prompts project
+2024-03-29 08:29:35,897 - INFO - [Result] (FAIL) config_files/393.json
+2024-03-29 08:29:40,239 - INFO - [Config file]: config_files/394.json
+2024-03-29 08:29:40,239 - INFO - [Intent]: Fork 2019-nCov.
+2024-03-29 08:30:24,507 - INFO - [Result] (FAIL) config_files/394.json
+2024-03-29 08:30:25,292 - INFO - [Config file]: config_files/395.json
+2024-03-29 08:30:25,292 - INFO - [Intent]: Fork the Pytorch GAN repo with most stars.
+2024-03-29 08:33:26,514 - INFO - [Result] (FAIL) config_files/395.json
+2024-03-29 08:33:29,263 - INFO - [Config file]: config_files/396.json
+2024-03-29 08:33:29,263 - INFO - [Intent]: Fork ChatGPT.
+2024-03-29 08:34:51,339 - INFO - [Result] (FAIL) config_files/396.json
+2024-03-29 08:34:53,240 - INFO - [Config file]: config_files/397.json
+2024-03-29 08:34:53,240 - INFO - [Intent]: Fork MetaSeq.
+2024-03-29 08:35:45,248 - INFO - [Result] (FAIL) config_files/397.json
+2024-03-29 08:35:46,176 - INFO - [Config file]: config_files/398.json
+2024-03-29 08:35:46,176 - INFO - [Intent]: Fork all source repos from Akilesh Kannan
+2024-03-29 08:37:13,323 - INFO - [Result] (FAIL) config_files/398.json
+2024-03-29 08:37:14,099 - INFO - [Config file]: config_files/399.json
+2024-03-29 08:37:14,100 - INFO - [Intent]: Change my reddit bio to "I am a robot"
+2024-03-29 08:38:11,937 - INFO - [Result] (FAIL) config_files/399.json
+2024-03-29 08:38:12,433 - INFO - Average score: 0.07886435331230283

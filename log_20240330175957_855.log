@@ -1,0 +1,19 @@
+2024-03-30 17:59:57,090 - INFO - Create result dir: ./results2
+2024-03-30 17:59:57,092 - INFO - Dump config to results2/config.json
+2024-03-30 17:59:58,607 - INFO - [Config file]: config_files/426.json
+2024-03-30 17:59:58,607 - INFO - [Intent]: Find the page of the place in Pennsylvania where a plane crashed during the September 11th attacks on the map.
+2024-03-30 18:00:11,841 - INFO - [Result] (FAIL) config_files/426.json
+2024-03-30 18:00:12,181 - INFO - [Config file]: config_files/427.json
+2024-03-30 18:00:12,182 - INFO - [Intent]: Find the page of the university that has most Turning Award winners on the map.
+2024-03-30 18:00:17,590 - INFO - [Result] (FAIL) config_files/427.json
+2024-03-30 18:00:17,893 - INFO - [Config file]: config_files/428.json
+2024-03-30 18:00:17,893 - INFO - [Intent]: Find the page of the undergrad college of the person who developed the Nash equilibrium on the map.
+2024-03-30 18:00:23,333 - INFO - [Result] (FAIL) config_files/428.json
+2024-03-30 18:00:23,671 - INFO - [Config file]: config_files/429.json
+2024-03-30 18:00:23,672 - INFO - [Intent]: Find the page of the colleges where The Chair was filmed in Pittsburgh on the map.
+2024-03-30 18:00:29,330 - INFO - [Result] (FAIL) config_files/429.json
+2024-03-30 18:00:29,638 - INFO - [Config file]: config_files/430.json
+2024-03-30 18:00:29,638 - INFO - [Intent]: Find the page of the college(s) where The Chair was filmed in Pennsylvania other than the ones in Pittsburgh on the map.
+2024-03-30 18:00:34,966 - INFO - [Result] (FAIL) config_files/430.json
+2024-03-30 18:00:35,259 - INFO - [Config file]: config_files/431.json
+2024-03-30 18:00:35,259 - INFO - [Intent]: Add the product with the lowest per unit price from my open tabs to the shopping cart

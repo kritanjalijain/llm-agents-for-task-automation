@@ -1,0 +1,129 @@
+2024-03-28 23:42:12,314 - INFO - [Config file]: config_files/26.json
+2024-03-28 23:42:12,314 - INFO - [Intent]: List out reviewers, if exist, who mention about complain of the customer service
+2024-03-28 23:42:18,162 - INFO - getting next
+2024-03-28 23:42:24,091 - INFO - getting next
+2024-03-28 23:42:29,895 - INFO - getting next
+2024-03-28 23:42:35,441 - INFO - getting next
+2024-03-28 23:42:43,621 - INFO - getting next
+2024-03-28 23:42:49,282 - INFO - getting next
+2024-03-28 23:42:55,989 - INFO - getting next
+2024-03-28 23:43:03,946 - INFO - getting next
+2024-03-28 23:43:10,751 - INFO - getting next
+2024-03-28 23:43:12,735 - INFO - [Result] (FAIL) config_files/26.json
+2024-03-28 23:43:13,400 - INFO - [Config file]: config_files/27.json
+2024-03-28 23:43:13,400 - INFO - [Intent]: Tell me the count of comments that have received more downvotes than upvotes for the user who made the latest post on the Showerthoughts forum.
+2024-03-28 23:43:17,726 - INFO - getting next
+2024-03-28 23:43:24,028 - INFO - getting next
+2024-03-28 23:43:29,293 - INFO - getting next
+2024-03-28 23:43:33,546 - INFO - getting next
+2024-03-28 23:43:37,961 - INFO - getting next
+2024-03-28 23:43:41,801 - INFO - getting next
+2024-03-28 23:43:48,332 - INFO - [Result] (FAIL) config_files/27.json
+2024-03-28 23:43:48,462 - INFO - [Config file]: config_files/28.json
+2024-03-28 23:43:48,462 - INFO - [Intent]: Tell me the count of comments that have received more downvotes than upvotes for the user who made the latest post on the Worcester forum.
+2024-03-28 23:43:52,734 - INFO - getting next
+2024-03-28 23:43:57,433 - INFO - getting next
+2024-03-28 23:44:02,917 - INFO - getting next
+2024-03-28 23:44:08,200 - INFO - getting next
+2024-03-28 23:44:12,613 - INFO - getting next
+2024-03-28 23:44:17,634 - INFO - [Result] (FAIL) config_files/28.json
+2024-03-28 23:44:17,967 - INFO - [Config file]: config_files/29.json
+2024-03-28 23:44:17,967 - INFO - [Intent]: Tell me the count of comments that have received more downvotes than upvotes for the user who made the latest post on the DIY forum.
+2024-03-28 23:44:22,172 - INFO - getting next
+2024-03-28 23:44:27,596 - INFO - getting next
+2024-03-28 23:44:32,363 - INFO - getting next
+2024-03-28 23:44:37,840 - INFO - [Result] (FAIL) config_files/29.json
+2024-03-28 23:44:37,932 - INFO - [Config file]: config_files/30.json
+2024-03-28 23:44:37,932 - INFO - [Intent]: Tell me the count of comments that have received more downvotes than upvotes for the user who made the latest post on the space forum.
+2024-03-28 23:44:42,051 - INFO - getting next
+2024-03-28 23:44:47,479 - INFO - getting next
+2024-03-28 23:44:53,329 - INFO - getting next
+2024-03-28 23:44:58,427 - INFO - getting next
+2024-03-28 23:45:04,442 - INFO - getting next
+2024-03-28 23:45:09,259 - INFO - getting next
+2024-03-28 23:45:15,258 - INFO - getting next
+2024-03-28 23:45:20,552 - INFO - getting next
+2024-03-28 23:45:24,789 - INFO - getting next
+2024-03-28 23:45:29,677 - INFO - getting next
+2024-03-28 23:45:34,313 - INFO - [Result] (FAIL) config_files/30.json
+2024-03-28 23:45:34,482 - INFO - [Config file]: config_files/31.json
+2024-03-28 23:45:34,482 - INFO - [Intent]: Tell me the count of comments that have received more downvotes than upvotes for the user who made the latest post on the photoshopbattles forum.
+2024-03-28 23:45:38,635 - INFO - getting next
+2024-03-28 23:45:45,122 - INFO - getting next
+2024-03-28 23:45:49,061 - INFO - getting next
+2024-03-28 23:45:54,192 - INFO - [Result] (FAIL) config_files/31.json
+2024-03-28 23:45:54,278 - INFO - [Config file]: config_files/32.json
+2024-03-28 23:45:54,278 - INFO - [Intent]: I will arrive Pittsburgh Airport soon. Provide the name of a Hilton hotel in the vicinity, if available. Then, tell me the the walking distance to the nearest supermarket own by a local company from the hotel.
+2024-03-28 23:45:59,484 - INFO - getting next
+2024-03-28 23:46:08,575 - INFO - getting next
+2024-03-28 23:46:14,657 - INFO - getting next
+2024-03-28 23:46:20,396 - INFO - getting next
+2024-03-28 23:46:25,570 - INFO - [Result] (FAIL) config_files/32.json
+2024-03-28 23:46:26,841 - INFO - [Config file]: config_files/33.json
+2024-03-28 23:46:26,841 - INFO - [Intent]: I will arrive Pittsburgh Airport soon. Provide the name of a Hilton hotel in the vicinity, if available. Then, tell me the the shortest walking distance to a supermarket from the hotel.
+2024-03-28 23:46:32,103 - INFO - getting next
+2024-03-28 23:46:39,038 - INFO - getting next
+2024-03-28 23:46:46,810 - INFO - getting next
+2024-03-28 23:46:52,087 - INFO - [Result] (FAIL) config_files/33.json
+2024-03-28 23:46:53,127 - INFO - [Config file]: config_files/34.json
+2024-03-28 23:46:53,127 - INFO - [Intent]: I will arrive Pittsburgh Airport soon. Provide the name of a Hyatt hotel in the vicinity, if available. Then, tell me the the shortest walking time to a supermarket from the hotel.
+2024-03-28 23:46:58,395 - INFO - getting next
+2024-03-28 23:47:04,039 - INFO - getting next
+2024-03-28 23:47:09,042 - INFO - getting next
+2024-03-28 23:47:17,354 - INFO - [Result] (FAIL) config_files/34.json
+2024-03-28 23:47:18,470 - INFO - [Config file]: config_files/35.json
+2024-03-28 23:47:18,470 - INFO - [Intent]: I will arrive Pittsburgh Airport soon. Provide the name of a Hyatt hotel in the vicinity, if available. Then, tell me the the minimal driving time to a supermarket from the hotel.
+2024-03-28 23:47:23,611 - INFO - getting next
+2024-03-28 23:47:28,860 - INFO - getting next
+2024-03-28 23:47:34,626 - INFO - getting next
+2024-03-28 23:47:40,245 - INFO - getting next
+2024-03-28 23:47:44,736 - INFO - getting next
+2024-03-28 23:47:50,915 - INFO - getting next
+2024-03-28 23:47:54,556 - INFO - getting next
+2024-03-28 23:47:59,266 - INFO - getting next
+2024-03-28 23:48:05,998 - INFO - getting next
+2024-03-28 23:48:13,980 - INFO - getting next
+2024-03-28 23:48:19,381 - INFO - getting next
+2024-03-28 23:48:23,481 - INFO - getting next
+2024-03-28 23:48:28,246 - INFO - getting next
+2024-03-28 23:48:33,336 - INFO - getting next
+2024-03-28 23:48:38,162 - INFO - getting next
+2024-03-28 23:48:42,845 - INFO - getting next
+2024-03-28 23:48:48,050 - INFO - getting next
+2024-03-28 23:48:55,525 - INFO - getting next
+2024-03-28 23:49:01,129 - INFO - getting next
+2024-03-28 23:49:06,527 - INFO - getting next
+2024-03-28 23:49:12,251 - INFO - getting next
+2024-03-28 23:49:16,763 - INFO - getting next
+2024-03-28 23:49:23,829 - INFO - [Result] (FAIL) config_files/35.json
+2024-03-28 23:49:27,501 - INFO - [Config file]: config_files/36.json
+2024-03-28 23:49:27,501 - INFO - [Intent]: Check if the social security administration in pittsburgh can be reached in one hour by car from Carnegie Mellon University
+2024-03-28 23:49:32,605 - INFO - getting next
+2024-03-28 23:49:38,846 - INFO - getting next
+2024-03-28 23:49:45,603 - INFO - getting next
+2024-03-28 23:49:51,225 - INFO - [Result] (FAIL) config_files/36.json
+2024-03-28 23:49:52,355 - INFO - [Config file]: config_files/37.json
+2024-03-28 23:49:52,355 - INFO - [Intent]: Check if the police station in pittsburgh can be reached in one hour by car from gates building at CMU
+2024-03-28 23:49:57,530 - INFO - getting next
+2024-03-28 23:50:03,357 - INFO - getting next
+2024-03-28 23:50:08,783 - INFO - getting next
+2024-03-28 23:50:14,115 - INFO - getting next
+2024-03-28 23:50:20,406 - INFO - [Result] (FAIL) config_files/37.json
+2024-03-28 23:50:21,588 - INFO - [Config file]: config_files/38.json
+2024-03-28 23:50:21,588 - INFO - [Intent]: Check if the duquesne university in pittsburgh can be reached in one hour by car from pittsburgh airport
+2024-03-28 23:50:26,676 - INFO - getting next
+2024-03-28 23:50:31,140 - INFO - getting next
+2024-03-28 23:50:37,924 - INFO - getting next
+2024-03-28 23:50:43,471 - INFO - getting next
+2024-03-28 23:50:48,660 - INFO - getting next
+2024-03-28 23:50:53,574 - INFO - getting next
+2024-03-28 23:50:58,859 - INFO - getting next
+2024-03-28 23:51:04,884 - INFO - getting next
+2024-03-28 23:51:09,706 - INFO - [Result] (PASS) config_files/38.json
+2024-03-28 23:51:11,639 - INFO - [Config file]: config_files/39.json
+2024-03-28 23:51:11,640 - INFO - [Intent]: Check if the walmart in pittsburgh can be reached in one hour by car from 5600 fifth avenue
+2024-03-28 23:51:16,733 - INFO - getting next
+2024-03-28 23:51:22,446 - INFO - getting next
+2024-03-28 23:51:27,699 - INFO - getting next
+2024-03-28 23:51:32,585 - INFO - getting next
+2024-03-28 23:51:38,070 - INFO - getting next

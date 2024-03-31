@@ -1,0 +1,5 @@
+2024-03-28 23:18:33,126 - INFO - [Config file]: config_files/7.json
+2024-03-28 23:18:33,126 - INFO - [Intent]: Tell me the full address of all international airports that are within a driving distance of 50 km to Carnegie Mellon University
+2024-03-28 23:18:39,850 - INFO - [Unhandled Error] AttributeError("'dict' object has no attribute 'meta_data'")]
+2024-03-28 23:18:39,852 - INFO - [Config file]: config_files/8.json
+2024-03-28 23:18:39,852 - INFO - [Intent]: Tell me the full address of all international airports that are within a driving distance of 5 km to Carnegie Mellon University

@@ -1,0 +1,41 @@
+2024-03-28 17:58:26,110 - INFO - [Config file]: config_files/11.json
+2024-03-28 17:58:26,110 - INFO - [Intent]: Tell me the the number of reviews that our store received by far that mention term "disappointed"
+2024-03-28 17:58:36,227 - INFO - [Result] (FAIL) config_files/11.json
+2024-03-28 17:58:36,380 - INFO - [Config file]: config_files/12.json
+2024-03-28 17:58:36,380 - INFO - [Intent]: Tell me the the number of reviews that our store received by far that mention term "satisfied"
+2024-03-28 17:59:42,914 - INFO - [Result] (FAIL) config_files/12.json
+2024-03-28 17:59:43,518 - INFO - [Config file]: config_files/13.json
+2024-03-28 17:59:43,518 - INFO - [Intent]: Tell me the the number of reviews that our store received by far that mention term "decent"
+2024-03-28 18:00:23,999 - INFO - [Result] (FAIL) config_files/13.json
+2024-03-28 18:00:24,385 - INFO - [Config file]: config_files/14.json
+2024-03-28 18:00:24,386 - INFO - [Intent]: Tell me the the number of reviews that our store received by far that mention term "not useful"
+2024-03-28 18:01:55,493 - INFO - [Result] (FAIL) config_files/14.json
+2024-03-28 18:01:56,577 - INFO - [Config file]: config_files/15.json
+2024-03-28 18:01:56,577 - INFO - [Intent]: Tell me the the number of reviews that our store received by far that mention term "best"
+2024-03-28 18:02:49,848 - INFO - [Result] (FAIL) config_files/15.json
+2024-03-28 18:02:50,920 - INFO - [Config file]: config_files/16.json
+2024-03-28 18:02:50,921 - INFO - [Intent]: Compare the time for walking and driving route from 5000 Fifth Avenue, Pittsburgh to UPMC family health center
+2024-03-28 18:03:29,467 - INFO - [Result] (FAIL) config_files/16.json
+2024-03-28 18:03:31,037 - INFO - [Config file]: config_files/17.json
+2024-03-28 18:03:31,037 - INFO - [Intent]: Compare the time for walking and driving route from AMC Waterfront to Carnegie Mellon University
+2024-03-28 18:04:03,613 - INFO - [Result] (FAIL) config_files/17.json
+2024-03-28 18:04:05,354 - INFO - [Config file]: config_files/18.json
+2024-03-28 18:04:05,354 - INFO - [Intent]: Compare the time for walking and driving route from AMC Waterfront to Univ of Pittsburgh
+2024-03-28 18:04:28,582 - INFO - [Result] (FAIL) config_files/18.json
+2024-03-28 18:04:29,922 - INFO - [Config file]: config_files/19.json
+2024-03-28 18:04:29,922 - INFO - [Intent]: Compare the time for walking and driving route from Carnegie Science Center to Carnegie Mellon University
+2024-03-28 18:04:57,562 - INFO - [Result] (FAIL) config_files/19.json
+2024-03-28 18:04:58,587 - INFO - [Config file]: config_files/20.json
+2024-03-28 18:04:58,587 - INFO - [Intent]: Compare the difference in time for walking and driving route from Randyland to Carnegie Mellon University
+2024-03-28 18:05:22,403 - INFO - [Result] (FAIL) config_files/20.json
+2024-03-28 18:05:23,397 - INFO - [Config file]: config_files/21.json
+2024-03-28 18:05:23,397 - INFO - [Intent]: List out reviewers, if exist, who mention about ear cups being small
+2024-03-28 18:06:08,169 - INFO - [Result] (FAIL) config_files/21.json
+2024-03-28 18:06:08,653 - INFO - [Config file]: config_files/22.json
+2024-03-28 18:06:08,653 - INFO - [Intent]: List out reviewers, if exist, who mention about under water photo
+2024-03-28 18:06:33,690 - INFO - [Result] (PASS) config_files/22.json
+2024-03-28 18:06:34,194 - INFO - [Config file]: config_files/23.json
+2024-03-28 18:06:34,194 - INFO - [Intent]: List out reviewers, if exist, who mention about good fingerprint resistant
+2024-03-28 18:06:56,496 - INFO - [Result] (FAIL) config_files/23.json
+2024-03-28 18:06:56,997 - INFO - [Config file]: config_files/24.json
+2024-03-28 18:06:56,998 - INFO - [Intent]: List out reviewers, if exist, who mention about price being unfair

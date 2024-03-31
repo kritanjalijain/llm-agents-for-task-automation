@@ -1,0 +1,123 @@
+2024-03-29 00:32:46,791 - INFO - Create result dir: ./results
+2024-03-29 00:32:46,792 - INFO - Dump config to results/config.json
+2024-03-29 00:32:47,189 - INFO - [Config file]: config_files/0.json
+2024-03-29 00:32:47,189 - INFO - [Intent]: What is the top-1 best-selling product in 2022
+2024-03-29 00:32:55,566 - INFO - [Result] (FAIL) config_files/0.json
+2024-03-29 00:32:55,721 - INFO - [Config file]: config_files/1.json
+2024-03-29 00:32:55,721 - INFO - [Intent]: What is the top-1 best-selling brand in Quarter 1 2022
+2024-03-29 00:34:57,610 - INFO - [Result] (FAIL) config_files/1.json
+2024-03-29 00:34:58,658 - INFO - [Config file]: config_files/2.json
+2024-03-29 00:34:58,658 - INFO - [Intent]: What is the top-1 best-selling product type in Quarter 1 2022
+2024-03-29 00:35:07,896 - INFO - [Result] (FAIL) config_files/2.json
+2024-03-29 00:35:08,041 - INFO - [Config file]: config_files/3.json
+2024-03-29 00:35:08,041 - INFO - [Intent]: What are the top-2 best-selling product in 2022
+2024-03-29 00:35:16,081 - INFO - [Result] (FAIL) config_files/3.json
+2024-03-29 00:35:16,234 - INFO - [Config file]: config_files/4.json
+2024-03-29 00:35:16,235 - INFO - [Intent]: What are the top-3 best-selling product in Jan 2023
+2024-03-29 00:35:34,340 - INFO - [Result] (FAIL) config_files/4.json
+2024-03-29 00:35:34,567 - INFO - [Config file]: config_files/5.json
+2024-03-29 00:35:34,568 - INFO - [Intent]: What is the top-1 best-selling product type in Jan 2023
+2024-03-29 00:35:48,278 - INFO - [Result] (FAIL) config_files/5.json
+2024-03-29 00:35:48,439 - INFO - [Config file]: config_files/6.json
+2024-03-29 00:35:48,439 - INFO - [Intent]: What are the top-5 best-selling product in 2023
+2024-03-29 00:36:17,677 - INFO - [Result] (FAIL) config_files/6.json
+2024-03-29 00:36:17,915 - INFO - [Config file]: config_files/7.json
+2024-03-29 00:36:17,916 - INFO - [Intent]: Tell me the full address of all international airports that are within a driving distance of 50 km to Carnegie Mellon University
+2024-03-29 00:36:45,401 - INFO - [Result] (FAIL) config_files/7.json
+2024-03-29 00:36:46,640 - INFO - [Config file]: config_files/8.json
+2024-03-29 00:36:46,640 - INFO - [Intent]: Tell me the full address of all international airports that are within a driving distance of 5 km to Carnegie Mellon University
+2024-03-29 00:37:13,389 - INFO - [Result] (FAIL) config_files/8.json
+2024-03-29 00:37:14,519 - INFO - [Config file]: config_files/9.json
+2024-03-29 00:37:14,519 - INFO - [Intent]: Tell me the full address of all international airports that are within a driving distance of 30 km to Carnegie Art Museum
+2024-03-29 00:37:44,324 - INFO - [Result] (FAIL) config_files/9.json
+2024-03-29 00:37:45,397 - INFO - [Config file]: config_files/10.json
+2024-03-29 00:37:45,397 - INFO - [Intent]: Tell me the full address of all US international airports that are within a driving distance of 60 km to Niagara Falls
+2024-03-29 00:38:12,658 - INFO - [Result] (FAIL) config_files/10.json
+2024-03-29 00:38:13,801 - INFO - [Config file]: config_files/11.json
+2024-03-29 00:38:13,801 - INFO - [Intent]: Tell me the the number of reviews that our store received by far that mention term "disappointed"
+2024-03-29 00:41:09,512 - INFO - [Result] (FAIL) config_files/11.json
+2024-03-29 00:41:12,076 - INFO - [Config file]: config_files/12.json
+2024-03-29 00:41:12,077 - INFO - [Intent]: Tell me the the number of reviews that our store received by far that mention term "satisfied"
+2024-03-29 00:41:43,557 - INFO - [Result] (FAIL) config_files/12.json
+2024-03-29 00:41:43,865 - INFO - [Config file]: config_files/13.json
+2024-03-29 00:41:43,865 - INFO - [Intent]: Tell me the the number of reviews that our store received by far that mention term "decent"
+2024-03-29 00:42:29,286 - INFO - [Result] (FAIL) config_files/13.json
+2024-03-29 00:42:30,338 - INFO - [Config file]: config_files/14.json
+2024-03-29 00:42:30,338 - INFO - [Intent]: Tell me the the number of reviews that our store received by far that mention term "not useful"
+2024-03-29 00:42:43,524 - INFO - [Result] (FAIL) config_files/14.json
+2024-03-29 00:42:43,694 - INFO - [Config file]: config_files/15.json
+2024-03-29 00:42:43,694 - INFO - [Intent]: Tell me the the number of reviews that our store received by far that mention term "best"
+2024-03-29 00:43:10,106 - INFO - [Result] (FAIL) config_files/15.json
+2024-03-29 00:43:10,499 - INFO - [Config file]: config_files/16.json
+2024-03-29 00:43:10,499 - INFO - [Intent]: Compare the time for walking and driving route from 5000 Fifth Avenue, Pittsburgh to UPMC family health center
+2024-03-29 00:45:03,066 - INFO - [Result] (FAIL) config_files/16.json
+2024-03-29 00:45:07,442 - INFO - [Config file]: config_files/17.json
+2024-03-29 00:45:07,442 - INFO - [Intent]: Compare the time for walking and driving route from AMC Waterfront to Carnegie Mellon University
+2024-03-29 00:45:54,154 - INFO - [Result] (FAIL) config_files/17.json
+2024-03-29 00:45:55,926 - INFO - [Config file]: config_files/18.json
+2024-03-29 00:45:55,926 - INFO - [Intent]: Compare the time for walking and driving route from AMC Waterfront to Univ of Pittsburgh
+2024-03-29 00:46:49,648 - INFO - [Result] (FAIL) config_files/18.json
+2024-03-29 00:46:51,736 - INFO - [Config file]: config_files/19.json
+2024-03-29 00:46:51,736 - INFO - [Intent]: Compare the time for walking and driving route from Carnegie Science Center to Carnegie Mellon University
+2024-03-29 00:47:13,768 - INFO - [Result] (FAIL) config_files/19.json
+2024-03-29 00:47:14,621 - INFO - [Config file]: config_files/20.json
+2024-03-29 00:47:14,621 - INFO - [Intent]: Compare the difference in time for walking and driving route from Randyland to Carnegie Mellon University
+2024-03-29 00:48:11,832 - INFO - [Result] (FAIL) config_files/20.json
+2024-03-29 00:48:14,843 - INFO - [Config file]: config_files/21.json
+2024-03-29 00:48:14,844 - INFO - [Intent]: List out reviewers, if exist, who mention about ear cups being small
+2024-03-29 00:48:33,767 - INFO - [Result] (FAIL) config_files/21.json
+2024-03-29 00:48:34,135 - INFO - [Config file]: config_files/22.json
+2024-03-29 00:48:34,135 - INFO - [Intent]: List out reviewers, if exist, who mention about under water photo
+2024-03-29 00:48:52,915 - INFO - [Result] (PASS) config_files/22.json
+2024-03-29 00:48:53,211 - INFO - [Config file]: config_files/23.json
+2024-03-29 00:48:53,211 - INFO - [Intent]: List out reviewers, if exist, who mention about good fingerprint resistant
+2024-03-29 00:49:15,965 - INFO - [Result] (FAIL) config_files/23.json
+2024-03-29 00:49:16,342 - INFO - [Config file]: config_files/24.json
+2024-03-29 00:49:16,342 - INFO - [Intent]: List out reviewers, if exist, who mention about price being unfair
+2024-03-29 00:49:34,246 - INFO - [Result] (PASS) config_files/24.json
+2024-03-29 00:49:34,524 - INFO - [Config file]: config_files/25.json
+2024-03-29 00:49:34,525 - INFO - [Intent]: List out reviewers, if exist, who mention about average print quality
+2024-03-29 00:50:27,619 - INFO - [Result] (FAIL) config_files/25.json
+2024-03-29 00:50:28,297 - INFO - [Config file]: config_files/26.json
+2024-03-29 00:50:28,298 - INFO - [Intent]: List out reviewers, if exist, who mention about complain of the customer service
+2024-03-29 00:51:19,093 - INFO - [Result] (FAIL) config_files/26.json
+2024-03-29 00:51:19,766 - INFO - [Config file]: config_files/27.json
+2024-03-29 00:51:19,766 - INFO - [Intent]: Tell me the count of comments that have received more downvotes than upvotes for the user who made the latest post on the Showerthoughts forum.
+2024-03-29 00:53:01,266 - INFO - [Result] (FAIL) config_files/27.json
+2024-03-29 00:53:01,625 - INFO - [Config file]: config_files/28.json
+2024-03-29 00:53:01,626 - INFO - [Intent]: Tell me the count of comments that have received more downvotes than upvotes for the user who made the latest post on the Worcester forum.
+2024-03-29 00:53:40,071 - INFO - [Result] (FAIL) config_files/28.json
+2024-03-29 00:53:40,228 - INFO - [Config file]: config_files/29.json
+2024-03-29 00:53:40,228 - INFO - [Intent]: Tell me the count of comments that have received more downvotes than upvotes for the user who made the latest post on the DIY forum.
+2024-03-29 00:54:32,861 - INFO - [Result] (FAIL) config_files/29.json
+2024-03-29 00:54:33,137 - INFO - [Config file]: config_files/30.json
+2024-03-29 00:54:33,137 - INFO - [Intent]: Tell me the count of comments that have received more downvotes than upvotes for the user who made the latest post on the space forum.
+2024-03-29 00:56:37,160 - INFO - [Result] (FAIL) config_files/30.json
+2024-03-29 00:56:37,501 - INFO - [Config file]: config_files/31.json
+2024-03-29 00:56:37,501 - INFO - [Intent]: Tell me the count of comments that have received more downvotes than upvotes for the user who made the latest post on the photoshopbattles forum.
+2024-03-29 00:58:21,201 - INFO - [Result] (FAIL) config_files/31.json
+2024-03-29 00:58:21,364 - INFO - [Config file]: config_files/32.json
+2024-03-29 00:58:21,364 - INFO - [Intent]: I will arrive Pittsburgh Airport soon. Provide the name of a Hilton hotel in the vicinity, if available. Then, tell me the the walking distance to the nearest supermarket own by a local company from the hotel.
+2024-03-29 00:58:54,083 - INFO - [Result] (FAIL) config_files/32.json
+2024-03-29 00:58:55,489 - INFO - [Config file]: config_files/33.json
+2024-03-29 00:58:55,489 - INFO - [Intent]: I will arrive Pittsburgh Airport soon. Provide the name of a Hilton hotel in the vicinity, if available. Then, tell me the the shortest walking distance to a supermarket from the hotel.
+2024-03-29 00:59:28,868 - INFO - [Result] (FAIL) config_files/33.json
+2024-03-29 00:59:30,453 - INFO - [Config file]: config_files/34.json
+2024-03-29 00:59:30,453 - INFO - [Intent]: I will arrive Pittsburgh Airport soon. Provide the name of a Hyatt hotel in the vicinity, if available. Then, tell me the the shortest walking time to a supermarket from the hotel.
+2024-03-29 01:00:25,392 - INFO - [Result] (FAIL) config_files/34.json
+2024-03-29 01:00:27,657 - INFO - [Config file]: config_files/35.json
+2024-03-29 01:00:27,657 - INFO - [Intent]: I will arrive Pittsburgh Airport soon. Provide the name of a Hyatt hotel in the vicinity, if available. Then, tell me the the minimal driving time to a supermarket from the hotel.
+2024-03-29 01:00:54,433 - INFO - [Result] (FAIL) config_files/35.json
+2024-03-29 01:00:55,697 - INFO - [Config file]: config_files/36.json
+2024-03-29 01:00:55,697 - INFO - [Intent]: Check if the social security administration in pittsburgh can be reached in one hour by car from Carnegie Mellon University
+2024-03-29 01:01:49,083 - INFO - [Result] (FAIL) config_files/36.json
+2024-03-29 01:01:51,226 - INFO - [Config file]: config_files/37.json
+2024-03-29 01:01:51,227 - INFO - [Intent]: Check if the police station in pittsburgh can be reached in one hour by car from gates building at CMU
+2024-03-29 01:02:21,080 - INFO - [Result] (FAIL) config_files/37.json
+2024-03-29 01:02:22,256 - INFO - [Config file]: config_files/38.json
+2024-03-29 01:02:22,256 - INFO - [Intent]: Check if the duquesne university in pittsburgh can be reached in one hour by car from pittsburgh airport
+2024-03-29 01:03:03,977 - INFO - [Result] (FAIL) config_files/38.json
+2024-03-29 01:03:05,952 - INFO - [Config file]: config_files/39.json
+2024-03-29 01:03:05,953 - INFO - [Intent]: Check if the walmart in pittsburgh can be reached in one hour by car from 5600 fifth avenue
+2024-03-29 01:03:28,062 - INFO - [Result] (FAIL) config_files/39.json
+2024-03-29 01:03:28,882 - INFO - Average score: 0.05

@@ -1,0 +1,121 @@
+2024-03-29 01:09:40,876 - INFO - [Config file]: config_files/40.json
+2024-03-29 01:09:40,877 - INFO - [Intent]: Check if the amc theatre in pittsburgh can be reached in one hour by car from hobart street
+2024-03-29 01:10:19,962 - INFO - [Result] (FAIL) config_files/40.json
+2024-03-29 01:10:21,484 - INFO - [Config file]: config_files/41.json
+2024-03-29 01:10:21,484 - INFO - [Intent]: List the top 1 search terms in my store
+2024-03-29 01:10:46,506 - INFO - [Result] (FAIL) config_files/41.json
+2024-03-29 01:10:46,867 - INFO - [Config file]: config_files/42.json
+2024-03-29 01:10:46,867 - INFO - [Intent]: List the top 2 search terms in my store
+2024-03-29 01:11:10,480 - INFO - [Result] (FAIL) config_files/42.json
+2024-03-29 01:11:10,764 - INFO - [Config file]: config_files/43.json
+2024-03-29 01:11:10,765 - INFO - [Intent]: List the top 3 search terms in my store
+2024-03-29 01:11:50,272 - INFO - [Result] (FAIL) config_files/43.json
+2024-03-29 01:11:50,696 - INFO - [Config file]: config_files/44.json
+2024-03-29 01:11:50,696 - INFO - [Intent]: Check out my todos
+2024-03-29 01:12:05,766 - INFO - [Result] (PASS) config_files/44.json
+2024-03-29 01:12:06,076 - INFO - [Config file]: config_files/45.json
+2024-03-29 01:12:06,077 - INFO - [Intent]: Check out the most recent open issues
+2024-03-29 01:14:19,578 - INFO - [Result] (FAIL) config_files/45.json
+2024-03-29 01:14:21,421 - INFO - [Config file]: config_files/46.json
+2024-03-29 01:14:21,421 - INFO - [Intent]: Check out the most recent open issues
+2024-03-29 01:15:24,047 - INFO - [Result] (FAIL) config_files/46.json
+2024-03-29 01:15:25,756 - INFO - [Config file]: config_files/47.json
+2024-03-29 01:15:25,756 - INFO - [Intent]: Today is 6/12/2023. Tell me how many fulfilled orders I have over the past month, and the total amount of money I spent.
+2024-03-29 01:16:19,088 - INFO - [Result] (FAIL) config_files/47.json
+2024-03-29 01:16:19,707 - INFO - [Config file]: config_files/48.json
+2024-03-29 01:16:19,707 - INFO - [Intent]: Today is 6/12/2023. Tell me how many fulfilled orders I have over the past three days, and the total amount of money I spent.
+2024-03-29 01:17:00,077 - INFO - [Result] (FAIL) config_files/48.json
+2024-03-29 01:17:00,789 - INFO - [Config file]: config_files/49.json
+2024-03-29 01:17:00,790 - INFO - [Intent]: Today is 6/12/2023. Tell me how many fulfilled orders I have over the past four month, and the total amount of money I spent.
+2024-03-29 01:17:16,009 - INFO - [Result] (FAIL) config_files/49.json
+2024-03-29 01:17:16,311 - INFO - [Config file]: config_files/50.json
+2024-03-29 01:17:16,311 - INFO - [Intent]: Today is 6/12/2023. Tell me how many fulfilled orders I have over the past year, and the total amount of money I spent.
+2024-03-29 01:18:32,641 - INFO - [Result] (FAIL) config_files/50.json
+2024-03-29 01:18:33,306 - INFO - [Config file]: config_files/51.json
+2024-03-29 01:18:33,306 - INFO - [Intent]: Today is 6/12/2023. Tell me how many fulfilled orders I have over the past six month, and the total amount of money I spent.
+2024-03-29 01:19:13,858 - INFO - [Result] (FAIL) config_files/51.json
+2024-03-29 01:19:14,418 - INFO - [Config file]: config_files/52.json
+2024-03-29 01:19:14,418 - INFO - [Intent]: How long does it take to walk from Carnegie Mellon University to starbucks on Craig Street?
+2024-03-29 01:20:20,173 - INFO - [Result] (FAIL) config_files/52.json
+2024-03-29 01:20:22,167 - INFO - [Config file]: config_files/53.json
+2024-03-29 01:20:22,167 - INFO - [Intent]: How long does it take to walk from Univ of Pittsburgh to starbucks on Craig Street?
+2024-03-29 01:20:44,224 - INFO - [Result] (FAIL) config_files/53.json
+2024-03-29 01:20:45,360 - INFO - [Config file]: config_files/54.json
+2024-03-29 01:20:45,361 - INFO - [Intent]: How long does it take to walk from Carnegie Mellon University to Univ of Pittsburgh?
+2024-03-29 01:21:08,854 - INFO - [Result] (FAIL) config_files/54.json
+2024-03-29 01:21:09,991 - INFO - [Config file]: config_files/55.json
+2024-03-29 01:21:09,992 - INFO - [Intent]: How long does it take to walk from the starbuck near CMU to Chatham university?
+2024-03-29 01:21:34,204 - INFO - [Result] (FAIL) config_files/55.json
+2024-03-29 01:21:35,323 - INFO - [Config file]: config_files/56.json
+2024-03-29 01:21:35,324 - INFO - [Intent]: How long does it take to walk from Carnegie Museum of Art to a library at CMU?
+2024-03-29 01:22:10,273 - INFO - [Result] (FAIL) config_files/56.json
+2024-03-29 01:22:11,580 - INFO - [Config file]: config_files/57.json
+2024-03-29 01:22:11,580 - INFO - [Intent]: Tell me the closest restaurant(s) to university center at Carnegie Mellon University
+2024-03-29 01:22:48,450 - INFO - [Result] (FAIL) config_files/57.json
+2024-03-29 01:22:49,918 - INFO - [Config file]: config_files/58.json
+2024-03-29 01:22:49,919 - INFO - [Intent]: Tell me the closest cafe(s) to CMU Hunt library
+2024-03-29 01:23:14,837 - INFO - [Result] (FAIL) config_files/58.json
+2024-03-29 01:23:15,948 - INFO - [Config file]: config_files/59.json
+2024-03-29 01:23:15,948 - INFO - [Intent]: Tell me the closest restaurant(s) to CMU Hunt library
+2024-03-29 01:23:37,993 - INFO - [Result] (FAIL) config_files/59.json
+2024-03-29 01:23:39,068 - INFO - [Config file]: config_files/60.json
+2024-03-29 01:23:39,068 - INFO - [Intent]: Tell me the closest restaurant(s) to CMU Posner Hall
+2024-03-29 01:23:50,516 - INFO - [Result] (FAIL) config_files/60.json
+2024-03-29 01:23:51,032 - INFO - [Config file]: config_files/61.json
+2024-03-29 01:23:51,032 - INFO - [Intent]: Tell me the closest restaurant(s) to CMU Sorrells Library
+2024-03-29 01:24:16,162 - INFO - [Result] (FAIL) config_files/61.json
+2024-03-29 01:24:17,268 - INFO - [Config file]: config_files/62.json
+2024-03-29 01:24:17,269 - INFO - [Intent]: Which customer has completed the most number of orders in the entire history?
+2024-03-29 01:24:48,204 - INFO - [Result] (FAIL) config_files/62.json
+2024-03-29 01:24:48,394 - INFO - [Config file]: config_files/63.json
+2024-03-29 01:24:48,394 - INFO - [Intent]: Which customer(s) has completed the second most number of orders in the entire history?
+2024-03-29 01:25:19,497 - INFO - [Result] (FAIL) config_files/63.json
+2024-03-29 01:25:19,730 - INFO - [Config file]: config_files/64.json
+2024-03-29 01:25:19,730 - INFO - [Intent]: Which customer has placed 2 orders in the entire history?
+2024-03-29 01:25:52,572 - INFO - [Result] (FAIL) config_files/64.json
+2024-03-29 01:25:52,833 - INFO - [Config file]: config_files/65.json
+2024-03-29 01:25:52,834 - INFO - [Intent]: Which customer has completed the fifth most number of orders in the entire history?
+2024-03-29 01:26:11,364 - INFO - [Result] (FAIL) config_files/65.json
+2024-03-29 01:26:11,551 - INFO - [Config file]: config_files/66.json
+2024-03-29 01:26:11,552 - INFO - [Intent]: Among the top 10 post in "books" forum, show me the post URLs that recommand a single book
+2024-03-29 01:27:06,128 - INFO - [Result] (FAIL) config_files/66.json
+2024-03-29 01:27:06,274 - INFO - [Config file]: config_files/67.json
+2024-03-29 01:27:06,275 - INFO - [Intent]: Among the top 10 post in "books" forum, show me the book names from posts that recommand a single book
+2024-03-29 01:28:41,042 - INFO - [Result] (FAIL) config_files/67.json
+2024-03-29 01:28:41,488 - INFO - [Config file]: config_files/68.json
+2024-03-29 01:28:41,488 - INFO - [Intent]: Among the top 10 post in "books" forum, show me the author name and the book name from posts that recommand a single book
+2024-03-29 01:29:05,717 - INFO - [Result] (FAIL) config_files/68.json
+2024-03-29 01:29:05,822 - INFO - [Config file]: config_files/69.json
+2024-03-29 01:29:05,822 - INFO - [Intent]: Among the top 10 post in "books" forum, is there any post talks about supporting local book stores? If so, tell me the organizations involved
+2024-03-29 01:29:49,890 - INFO - [Result] (FAIL) config_files/69.json
+2024-03-29 01:29:50,021 - INFO - [Config file]: config_files/70.json
+2024-03-29 01:29:50,021 - INFO - [Intent]: What is the zip code of Carnegie Mellon University?
+2024-03-29 01:30:19,462 - INFO - [Result] (FAIL) config_files/70.json
+2024-03-29 01:30:20,648 - INFO - [Config file]: config_files/71.json
+2024-03-29 01:30:20,648 - INFO - [Intent]: What is the zip code of Chatham University?
+2024-03-29 01:33:24,429 - INFO - [Result] (FAIL) config_files/71.json
+2024-03-29 01:33:31,211 - INFO - [Config file]: config_files/72.json
+2024-03-29 01:33:31,211 - INFO - [Intent]: What is the zip code of Yale University?
+2024-03-29 01:36:18,563 - INFO - [Result] (FAIL) config_files/72.json
+2024-03-29 01:36:25,094 - INFO - [Config file]: config_files/73.json
+2024-03-29 01:36:25,095 - INFO - [Intent]: What is the zip code of Columbia University?
+2024-03-29 01:37:23,172 - INFO - [Result] (FAIL) config_files/73.json
+2024-03-29 01:37:25,104 - INFO - [Config file]: config_files/74.json
+2024-03-29 01:37:25,104 - INFO - [Intent]: Given the following locations, ['Carnegie Mellon University', 'apple store shadyside', 'starbucks on craig street'], what would be the optimal route to travel through them all in order to minimize total travel time? Please note the journey begins at the first place listed.
+2024-03-29 01:37:49,176 - INFO - [Result] (FAIL) config_files/74.json
+2024-03-29 01:37:49,762 - INFO - [Config file]: config_files/75.json
+2024-03-29 01:37:49,762 - INFO - [Intent]: Given the following locations, ['Massachusetts Institute of Technology', 'Harvard University', 'Boston Logan International Airport'], what would be the optimal route to travel through them all in order to minimize total travel time? Please note the journey begins at the first place listed.
+2024-03-29 01:38:18,994 - INFO - [Result] (FAIL) config_files/75.json
+2024-03-29 01:38:20,227 - INFO - [Config file]: config_files/76.json
+2024-03-29 01:38:20,228 - INFO - [Intent]: Given the following locations, ['Princeton University', 'Yale University', 'Harvard University'], what would be the optimal route to travel through them all in order to minimize total travel time? Please note the journey begins at the first place listed.
+2024-03-29 01:41:37,184 - INFO - [Result] (FAIL) config_files/76.json
+2024-03-29 01:41:52,894 - INFO - [Config file]: config_files/77.json
+2024-03-29 01:41:52,894 - INFO - [Intent]: What is the total count of Pending reviews amongst all the reviews?
+2024-03-29 01:42:59,494 - INFO - [Result] (FAIL) config_files/77.json
+2024-03-29 01:43:00,004 - INFO - [Config file]: config_files/78.json
+2024-03-29 01:43:00,004 - INFO - [Intent]: What is the total count of Approved reviews amongst all the reviews?
+2024-03-29 01:46:59,455 - INFO - [Result] (FAIL) config_files/78.json
+2024-03-29 01:47:00,435 - INFO - [Config file]: config_files/79.json
+2024-03-29 01:47:00,435 - INFO - [Intent]: What is the total count of Not Approved reviews amongst all the reviews?
+2024-03-29 01:48:46,662 - INFO - [Result] (FAIL) config_files/79.json
+2024-03-29 01:48:47,753 - INFO - Average score: 0.025

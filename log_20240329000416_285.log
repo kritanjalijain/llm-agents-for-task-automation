@@ -1,0 +1,4 @@
+2024-03-29 00:04:17,169 - INFO - [Config file]: config_files/0.json
+2024-03-29 00:04:17,169 - INFO - [Intent]: What is the top-1 best-selling product in 2022
+2024-03-29 00:04:24,539 - INFO - [Result] (PASS) config_files/0.json
+2024-03-29 00:04:24,764 - INFO - Average score: 1.0

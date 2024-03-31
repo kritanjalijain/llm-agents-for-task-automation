@@ -1,0 +1,5 @@
+2024-03-28 23:17:28,605 - INFO - [Config file]: config_files/5.json
+2024-03-28 23:17:28,605 - INFO - [Intent]: What is the top-1 best-selling product type in Jan 2023
+2024-03-28 23:17:34,650 - INFO - [Result] (FAIL) config_files/5.json
+2024-03-28 23:17:34,790 - INFO - [Config file]: config_files/6.json
+2024-03-28 23:17:34,790 - INFO - [Intent]: What are the top-5 best-selling product in 2023

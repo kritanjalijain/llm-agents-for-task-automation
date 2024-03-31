@@ -1,0 +1,7 @@
+2024-03-28 23:40:03,292 - INFO - [Config file]: config_files/23.json
+2024-03-28 23:40:03,292 - INFO - [Intent]: List out reviewers, if exist, who mention about good fingerprint resistant
+2024-03-28 23:40:09,238 - INFO - getting next
+2024-03-28 23:40:15,257 - INFO - getting next
+2024-03-28 23:40:18,563 - INFO - [Result] (FAIL) config_files/23.json
+2024-03-28 23:40:18,888 - INFO - [Config file]: config_files/24.json
+2024-03-28 23:40:18,889 - INFO - [Intent]: List out reviewers, if exist, who mention about price being unfair
