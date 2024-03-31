@@ -1,0 +1,122 @@
+[2024-03-30 14:40:40,552][__main__][INFO] - Use model osunlp/MindAct_ActionPrediction_flan-t5-base
+[2024-03-30 14:44:15,115][__main__][INFO] - Use model osunlp/MindAct_ActionPrediction_flan-t5-base
+[2024-03-30 14:47:19,231][__main__][INFO] - Use model osunlp/MindAct_ActionPrediction_flan-t5-base
+[2024-03-30 14:51:21,221][__main__][INFO] - Use model osunlp/MindAct_ActionPrediction_flan-t5-base
+[2024-03-30 14:51:21,582][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 14:55:27,921][__main__][INFO] - Use model osunlp/MindAct_ActionPrediction_flan-t5-base
+[2024-03-30 14:55:28,337][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 14:56:37,516][__main__][INFO] - Use model osunlp/MindAct_ActionPrediction_flan-t5-base
+[2024-03-30 14:56:37,919][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 15:01:22,723][__main__][INFO] - Use model osunlp/MindAct_ActionPrediction_flan-t5-base
+[2024-03-30 15:01:23,120][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 15:01:35,375][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 15:02:02,838][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 15:05:22,246][__main__][INFO] - Use model osunlp/MindAct_ActionPrediction_flan-t5-base
+[2024-03-30 15:05:22,647][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 15:07:02,846][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 15:10:03,097][__main__][INFO] - Use model osunlp/MindAct_ActionPrediction_flan-t5-base
+[2024-03-30 15:10:03,505][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 15:11:16,160][__main__][INFO] - Use model osunlp/MindAct_ActionPrediction_flan-t5-base
+[2024-03-30 15:11:16,654][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 15:11:29,324][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 15:11:40,660][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 15:12:59,902][__main__][INFO] - Use model osunlp/MindAct_ActionPrediction_flan-t5-base
+[2024-03-30 15:13:00,347][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 15:17:20,039][__main__][INFO] - Use model osunlp/MindAct_ActionPrediction_flan-t5-base
+[2024-03-30 15:17:20,460][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 15:17:28,766][root][WARNING] - For training, the BetterTransformer implementation for t5  architecture currently does not support padding as fused kernels do not support custom attention masks. Beware that passing padded batched training data may result in unexpected outputs.
+[2024-03-30 15:17:29,160][__main__][INFO] - Start evaluating for test_website
+[2024-03-30 15:17:33,596][metric][INFO] - Recall Cap @ 5: 0.5262515262515263
+[2024-03-30 15:17:37,961][metric][INFO] - Recall Cap @ 10: 0.6556776556776557
+[2024-03-30 15:17:42,303][metric][INFO] - Recall Cap @ 20: 0.7509157509157509
+[2024-03-30 15:17:46,791][metric][INFO] - Recall Cap @ 50: 0.8571428571428571
+[2024-03-30 15:17:51,178][metric][INFO] - Candidate generator acc: 0.21123321123321123
+[2024-03-30 15:37:52,650][__main__][INFO] - Result for test_website: {'element_acc': 0.3137973137973138, 'action_f1': 0.678152799581371, 'step_acc': 0.27472527472527475, 'marco_element_acc': 0.32787982306364655, 'marco_action_f1': 0.6864102824735177, 'marco_step_acc': 0.2889078280107692, 'error_ratio': {'>3': 0.7, 3: 0.11, 2: 0.15, 1: 0.03, 0: 0.01}, 'acc_per_website': {'trip': (0.23362014143264143, 16), 'recreation.gov': (0.18333333333333332, 11), 'shopping.google': (0.33712121212121215, 11), 'tripadvisor': (0.31827275288813756, 13), 'cars': (0.3794516594516595, 5), 'tiktok.music': (0.32653061224489793, 7), 'stubhub': (0.35257797757797754, 13), 'nba': (0.18650793650793648, 7), 'macys': (0.31409727527374587, 10), 'bestbuy': (0.29675716440422323, 7)}}
+[2024-03-30 16:17:04,378][__main__][INFO] - Use model osunlp/MindAct_ActionPrediction_flan-t5-base
+[2024-03-30 16:17:05,858][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 16:17:22,253][root][WARNING] - For training, the BetterTransformer implementation for t5  architecture currently does not support padding as fused kernels do not support custom attention masks. Beware that passing padded batched training data may result in unexpected outputs.
+[2024-03-30 16:17:22,652][__main__][INFO] - Start evaluating for test_task
+[2024-03-30 16:17:27,681][metric][INFO] - Recall Cap @ 5: 0.9168674698795181
+[2024-03-30 16:17:32,615][metric][INFO] - Recall Cap @ 10: 0.9168674698795181
+[2024-03-30 16:17:37,596][metric][INFO] - Recall Cap @ 20: 0.9168674698795181
+[2024-03-30 16:17:42,602][metric][INFO] - Recall Cap @ 50: 0.9168674698795181
+[2024-03-30 16:17:47,561][metric][INFO] - Candidate generator acc: 0.0
+[2024-03-30 16:20:27,375][__main__][INFO] - Use model osunlp/MindAct_ActionPrediction_flan-t5-base
+[2024-03-30 16:20:27,737][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 16:20:40,376][root][WARNING] - For training, the BetterTransformer implementation for t5  architecture currently does not support padding as fused kernels do not support custom attention masks. Beware that passing padded batched training data may result in unexpected outputs.
+[2024-03-30 16:20:40,774][__main__][INFO] - Start evaluating for test_domain
+[2024-03-30 16:20:44,099][metric][INFO] - Recall Cap @ 5: 0.543939393939394
+[2024-03-30 16:20:47,386][metric][INFO] - Recall Cap @ 10: 0.6575757575757576
+[2024-03-30 16:20:50,669][metric][INFO] - Recall Cap @ 20: 0.7333333333333333
+[2024-03-30 16:20:53,963][metric][INFO] - Recall Cap @ 50: 0.8378787878787879
+[2024-03-30 16:20:57,355][metric][INFO] - Candidate generator acc: 0.21818181818181817
+[2024-03-30 16:36:13,053][__main__][INFO] - Result for test_domain: {'element_acc': 0.3606060606060606, 'action_f1': 0.6750541125541125, 'step_acc': 0.3212121212121212, 'marco_element_acc': 0.40097172091193833, 'marco_action_f1': 0.6867273927763057, 'marco_step_acc': 0.3593163394576438, 'error_ratio': {'>3': 0.51, 1: 0.11, 3: 0.21, 2: 0.13, 0: 0.04}, 'acc_per_website': {'reddit': (0.4148148148148148, 9), 'thumbtack': (0.3129117259552043, 3), 'stocktwits': (0.28214285714285714, 5), 'linkedin': (0.1111111111111111, 1), 'akc.org': (0.1, 1), 'apartments': (0.39489795918367354, 7), 'fedex': (0.18181818181818182, 1), 'weather': (0.4444444444444444, 3), 'careers.walmart': (0.40824915824915825, 6), 'uhaul': (0.4, 1), 'student': (0.4444444444444444, 1), 'redfin': (0.30952380952380953, 3), 'glassdoor': (0.26969696969696966, 5), 'indeed': (0.29166666666666663, 6), 'ohio.gov': (0.16904761904761906, 7), 'accuweather': (0.5583333333333333, 6), 'health.usnews': (0.19642857142857142, 4), 'healthgrades': (0.0, 1), 'twitter': (1.0, 1), 'udemy': (0.3616758241758242, 8), 'bbb.org': (0.22094155844155847, 4), 'theweathernetwork': (0.6309523809523808, 7), 'pensketruckrental': (0.3653846153846154, 2), 'zocdoc': (0.34444444444444444, 5), 'usnews.education': (0.2857142857142857, 2), 'usps': (0.5, 1)}}
+[2024-03-30 16:41:04,872][__main__][INFO] - Use model osunlp/MindAct_ActionPrediction_flan-t5-base
+[2024-03-30 16:41:05,281][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 16:41:56,825][__main__][INFO] - Use model osunlp/MindAct_ActionPrediction_flan-t5-base
+[2024-03-30 16:41:57,709][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 16:42:06,196][root][WARNING] - For training, the BetterTransformer implementation for t5  architecture currently does not support padding as fused kernels do not support custom attention masks. Beware that passing padded batched training data may result in unexpected outputs.
+[2024-03-30 16:42:06,605][__main__][INFO] - Start evaluating for test_task
+[2024-03-30 16:42:11,848][metric][INFO] - Recall Cap @ 5: 0.9168674698795181
+[2024-03-30 16:42:16,971][metric][INFO] - Recall Cap @ 10: 0.9168674698795181
+[2024-03-30 16:42:22,156][metric][INFO] - Recall Cap @ 20: 0.9168674698795181
+[2024-03-30 16:42:27,211][metric][INFO] - Recall Cap @ 50: 0.9168674698795181
+[2024-03-30 16:42:32,336][metric][INFO] - Candidate generator acc: 0.0
+[2024-03-30 16:48:59,642][metric][INFO] - IndexError: ['Price Low-High']
+[2024-03-30 16:48:59,642][metric][INFO] - Choices: [['105888', '(li id=0 (a (svg img ) (span Kohls Coupons )'], ['106730', '(div id=1 (div (div (span 4 ) (span products )'], ['106827', '(a id=2 menu expandable (span Menu Expandable ) )'], ['106902', '(img id=3 previous page )'], ['109836', '(div id=4 (div (span Brand ) (a button brand (span']]
+[2024-03-30 16:49:02,779][metric][INFO] - IndexError: ['Price Low-High']
+[2024-03-30 16:49:02,779][metric][INFO] - Choices: [['106731', '(div id=0 (div (span 4 ) (span products ) )'], ['110324', '(a id=1 (svg img (title Pinterest ) ) )'], ['110401', '(a id=2 Order Status )'], ['110453', '(li id=3 (a Kohls Coupons ) )'], ['110558', '(p id=4 2023 Kohls, Inc. KOHLS and Kohls brand names']]
+[2024-03-30 16:49:11,406][metric][INFO] - IndexError: ['Price Low-High']
+[2024-03-30 16:49:11,407][metric][INFO] - Choices: [['106720', '(div id=0 (div (div (span 4 ) (span products )'], ['106980', '(a id=1 3.9 out of 5 star number of reviews'], ['109258', '(a id=2 2x - selecting this item (span 2X )'], ['109480', '(li id=3 (a 30d - selecting this item (span 30D'], ['109748', '(a id=4 34f - selecting this item (span 34F )']]
+[2024-03-30 16:49:13,311][metric][INFO] - IndexError: ['Price Low-High']
+[2024-03-30 16:49:13,311][metric][INFO] - Choices: [['117926', '(div id=0 (div (select sortby (option featured true Featured )'], ['118511', '(img id=1 blueberry skin )'], ['120439', '(a id=2 6 - selecting this item (span 6 )'], ['120731', '(li id=3 (a 32g - selecting this item (span 32G'], ['120887', '(a id=4 34g - selecting this item (span 34G )']]
+[2024-03-30 16:49:14,209][metric][INFO] - IndexError: ['Price Low-High']
+[2024-03-30 16:49:14,209][metric][INFO] - Choices: [['116891', '(li id=0 (input true ) )'], ['117849', '(div id=1 (div (div (span 4 ) (span products )'], ['118303', '(a id=2 gentle peach (img gentle peach ) )'], ['118525', '(a id=3 oat heather sunflower (img oat heather sunflower )'], ['121541', '(li id=4 (a Recalls ) )']]
+[2024-03-30 16:49:17,274][metric][INFO] - IndexError: ['Price Low-High']
+[2024-03-30 16:49:17,274][metric][INFO] - Choices: [['117860', '(div id=0 (div id=1 (span 4 ) (span products )'], ['117862', '(div id=1 (span 4 ) (span products ) )'], ['119497', "(a id=2 (div women's maidenform comfort devotion lace-back (div product"], ['120249', '(a id=3 clear Clear )'], ['121558', '(li id=4 (a Todays Ad ) )']]
+[2024-03-30 16:49:21,477][metric][INFO] - IndexError: ['Price Low-High']
+[2024-03-30 16:49:21,477][metric][INFO] - Choices: [['117160', '(span id=0 for every $50 spent )'], ['117928', '(div id=1 (select sortby (option featured true Featured ) (option'], ['118826', '(img id=2 product image of bali comfort )'], ['120633', '(li id=3 (a 32b - selecting this item (span 32B'], ['121548', '(a id=4 Kohls Cash )']]
+[2024-03-30 16:49:22,625][metric][INFO] - IndexError: ['Price Low-High']
+[2024-03-30 16:49:22,625][metric][INFO] - Choices: [['116864', '(ul id=0 (a account (svg img ) (p 1 (span'], ['117107', '(div id=1 (p Take an extra ) (div (p (span'], ['117859', '(div id=2 (div (div (span 4 ) (span products )'], ['120675', '(li id=3 (a 32dd - selecting this item (span 32DD'], ['121676', '(a id=4 Advertise with Us )']]
+[2024-03-30 17:15:48,924][__main__][INFO] - Use model osunlp/MindAct_ActionPrediction_flan-t5-large
+[2024-03-30 17:15:49,338][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 17:17:09,346][root][WARNING] - For training, the BetterTransformer implementation for t5  architecture currently does not support padding as fused kernels do not support custom attention masks. Beware that passing padded batched training data may result in unexpected outputs.
+[2024-03-30 17:17:10,266][__main__][INFO] - Start evaluating for test_website
+[2024-03-30 17:17:14,684][metric][INFO] - Recall Cap @ 5: 0.5262515262515263
+[2024-03-30 17:17:19,266][metric][INFO] - Recall Cap @ 10: 0.6556776556776557
+[2024-03-30 17:17:23,765][metric][INFO] - Recall Cap @ 20: 0.7509157509157509
+[2024-03-30 17:17:28,154][metric][INFO] - Recall Cap @ 50: 0.8571428571428571
+[2024-03-30 17:17:32,520][metric][INFO] - Candidate generator acc: 0.21123321123321123
+[2024-03-30 17:55:17,742][__main__][INFO] - Result for test_website: {'element_acc': 0.38217338217338215, 'action_f1': 0.6579161579161579, 'step_acc': 0.33455433455433453, 'marco_element_acc': 0.4081974996680879, 'marco_action_f1': 0.6742721379447919, 'marco_step_acc': 0.3608881336528396, 'error_ratio': {'>3': 0.64, 3: 0.11, 2: 0.16, 1: 0.07, 0: 0.02}, 'acc_per_website': {'trip': (0.2773491554741555, 16), 'recreation.gov': (0.28030303030303033, 11), 'shopping.google': (0.39924242424242423, 11), 'tripadvisor': (0.4421245421245421, 13), 'cars': (0.47024531024531024, 5), 'tiktok.music': (0.4064625850340136, 7), 'stubhub': (0.3894855144855144, 13), 'nba': (0.2777777777777778, 7), 'macys': (0.44215967039496445, 10), 'bestbuy': (0.2575414781297134, 7)}}
+[2024-03-30 18:05:57,805][__main__][INFO] - Use model osunlp/MindAct_ActionPrediction_flan-t5-large
+[2024-03-30 18:05:58,173][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 18:06:12,182][root][WARNING] - For training, the BetterTransformer implementation for t5  architecture currently does not support padding as fused kernels do not support custom attention masks. Beware that passing padded batched training data may result in unexpected outputs.
+[2024-03-30 18:06:13,253][__main__][INFO] - Start evaluating for test_domain
+[2024-03-30 18:06:16,704][metric][INFO] - Recall Cap @ 5: 0.543939393939394
+[2024-03-30 18:06:20,165][metric][INFO] - Recall Cap @ 10: 0.6575757575757576
+[2024-03-30 18:06:23,645][metric][INFO] - Recall Cap @ 20: 0.7333333333333333
+[2024-03-30 18:06:27,155][metric][INFO] - Recall Cap @ 50: 0.8378787878787879
+[2024-03-30 18:06:30,617][metric][INFO] - Candidate generator acc: 0.21818181818181817
+[2024-03-30 18:35:17,516][__main__][INFO] - Result for test_domain: {'element_acc': 0.396969696969697, 'action_f1': 0.6404184704184703, 'step_acc': 0.3560606060606061, 'marco_element_acc': 0.4296478925663708, 'marco_action_f1': 0.6501276794863751, 'marco_step_acc': 0.3815347973282756, 'error_ratio': {'>3': 0.51, 0: 0.03, 3: 0.21, 1: 0.13, 2: 0.12}, 'acc_per_website': {'reddit': (0.4259259259259259, 9), 'thumbtack': (0.23847167325428195, 3), 'stocktwits': (0.26071428571428573, 5), 'linkedin': (0.2222222222222222, 1), 'akc.org': (0.3, 1), 'apartments': (0.44387755102040816, 7), 'fedex': (0.45454545454545453, 1), 'weather': (0.5, 3), 'careers.walmart': (0.3764430014430014, 6), 'uhaul': (0.4, 1), 'student': (0.4444444444444444, 1), 'redfin': (0.5575396825396826, 3), 'glassdoor': (0.36969696969696964, 5), 'indeed': (0.3013888888888889, 6), 'ohio.gov': (0.2369047619047619, 7), 'accuweather': (0.5166666666666667, 6), 'health.usnews': (0.3839285714285714, 4), 'healthgrades': (0.0, 1), 'twitter': (0.75, 1), 'udemy': (0.317032967032967, 8), 'bbb.org': (0.3390422077922078, 4), 'theweathernetwork': (0.5357142857142857, 7), 'pensketruckrental': (0.28205128205128205, 2), 'zocdoc': (0.3711111111111111, 5), 'usnews.education': (0.4642857142857143, 2), 'usps': (0.25, 1)}}
+[2024-03-30 18:37:37,199][__main__][INFO] - Use model osunlp/MindAct_ActionPrediction_flan-t5-xl
+[2024-03-30 18:37:38,630][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 18:43:02,687][root][WARNING] - For training, the BetterTransformer implementation for t5  architecture currently does not support padding as fused kernels do not support custom attention masks. Beware that passing padded batched training data may result in unexpected outputs.
+[2024-03-30 18:43:06,538][__main__][INFO] - Start evaluating for test_domain
+[2024-03-30 18:43:09,943][metric][INFO] - Recall Cap @ 5: 0.543939393939394
+[2024-03-30 18:43:13,245][metric][INFO] - Recall Cap @ 10: 0.6575757575757576
+[2024-03-30 18:43:16,540][metric][INFO] - Recall Cap @ 20: 0.7333333333333333
+[2024-03-30 18:43:19,840][metric][INFO] - Recall Cap @ 50: 0.8378787878787879
+[2024-03-30 18:43:23,285][metric][INFO] - Candidate generator acc: 0.21818181818181817
+[2024-03-30 19:41:31,540][__main__][INFO] - Result for test_domain: {'element_acc': 0.44545454545454544, 'action_f1': 0.6446428571428571, 'step_acc': 0.3893939393939394, 'marco_element_acc': 0.476733459776938, 'marco_action_f1': 0.6559833438501917, 'marco_step_acc': 0.41692277529234045, 'error_ratio': {3: 0.19, 0: 0.04, '>3': 0.47, 1: 0.12, 2: 0.18}, 'acc_per_website': {'reddit': (0.4999999999999999, 9), 'thumbtack': (0.22397891963109354, 3), 'stocktwits': (0.41785714285714287, 5), 'linkedin': (0.2222222222222222, 1), 'akc.org': (0.5, 1), 'apartments': (0.4022108843537415, 7), 'fedex': (0.5454545454545454, 1), 'weather': (0.5555555555555555, 3), 'careers.walmart': (0.3825156325156325, 6), 'uhaul': (0.6, 1), 'student': (0.4444444444444444, 1), 'redfin': (0.3511904761904762, 3), 'glassdoor': (0.4242424242424242, 5), 'indeed': (0.43194444444444446, 6), 'ohio.gov': (0.22619047619047622, 7), 'accuweather': (0.5166666666666667, 6), 'health.usnews': (0.4464285714285714, 4), 'healthgrades': (0.0, 1), 'twitter': (0.75, 1), 'udemy': (0.40116758241758244, 8), 'bbb.org': (0.38814935064935063, 4), 'theweathernetwork': (0.5833333333333333, 7), 'pensketruckrental': (0.40705128205128205, 2), 'zocdoc': (0.3822222222222222, 5), 'usnews.education': (0.14285714285714285, 2), 'usps': (0.5, 1)}}
+[2024-03-30 19:48:13,409][__main__][INFO] - Use model osunlp/MindAct_ActionPrediction_flan-t5-xl
+[2024-03-30 19:48:13,834][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 19:49:03,274][__main__][INFO] - Use model osunlp/MindAct_ActionPrediction_flan-t5-xl
+[2024-03-30 19:49:03,713][huggingface_hub.repocard][WARNING] - Repo card metadata block was not found. Setting CardData to empty.
+[2024-03-30 19:49:44,138][root][WARNING] - For training, the BetterTransformer implementation for t5  architecture currently does not support padding as fused kernels do not support custom attention masks. Beware that passing padded batched training data may result in unexpected outputs.
+[2024-03-30 19:49:47,888][__main__][INFO] - Start evaluating for test_website
+[2024-03-30 19:49:52,111][metric][INFO] - Recall Cap @ 5: 0.5262515262515263
+[2024-03-30 19:49:56,254][metric][INFO] - Recall Cap @ 10: 0.6556776556776557
+[2024-03-30 19:50:00,400][metric][INFO] - Recall Cap @ 20: 0.7509157509157509
+[2024-03-30 19:50:04,651][metric][INFO] - Recall Cap @ 50: 0.8571428571428571
+[2024-03-30 19:50:08,827][metric][INFO] - Candidate generator acc: 0.21123321123321123
+[2024-03-30 21:07:05,112][__main__][INFO] - Result for test_website: {'element_acc': 0.4053724053724054, 'action_f1': 0.6267282981568696, 'step_acc': 0.36385836385836384, 'marco_element_acc': 0.4321862696127402, 'marco_action_f1': 0.6369672058307912, 'marco_step_acc': 0.39236216370775195, 'error_ratio': {'>3': 0.61, 3: 0.17, 2: 0.12, 0: 0.05, 1: 0.05}, 'acc_per_website': {'trip': (0.2691570004070004, 16), 'recreation.gov': (0.506060606060606, 11), 'shopping.google': (0.39696969696969703, 11), 'tripadvisor': (0.44591434206818825, 13), 'cars': (0.48207792207792205, 5), 'tiktok.music': (0.2947845804988662, 7), 'stubhub': (0.4776112776112776, 13), 'nba': (0.282312925170068, 7), 'macys': (0.4407075930605343, 10), 'bestbuy': (0.30476998491704377, 7)}}
